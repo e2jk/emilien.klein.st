@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Emilien Klein"  # (translatable)
 BLOG_TITLE = "Emilien Klein"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://emilien.klein.st"
+SITE_URL = "http://emilien.klein.st/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://emilien.klein.st"
