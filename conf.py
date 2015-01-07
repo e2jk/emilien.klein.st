@@ -489,18 +489,29 @@ RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_rea
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
-# LICENSE = """
-# <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
-# <img alt="Creative Commons License BY-NC-SA"
-# style="border-width:0; margin-bottom:12px;"
-# src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
+LICENSE = """
+This work by
+<a xmlns:cc="http://creativecommons.org/ns#" href="http://emilien.klein.st/" property="cc:attributionName" rel="cc:attributionURL">
+Emilien Klein
+</a> is licensed under a
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+</a>
+"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = """
+Contents &copy; {date}
+<a href="mailto:{email}">{author}</a> -
+Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a>.
+<br />
+{license}
+"""
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
