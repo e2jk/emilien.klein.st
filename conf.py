@@ -469,7 +469,7 @@ REDIRECTIONS = []
 # }
 
 # Show only teasers in the index pages? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -500,7 +500,7 @@ Emilien Klein
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+<img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
 </a>
 """
 
