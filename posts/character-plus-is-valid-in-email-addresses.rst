@@ -33,16 +33,17 @@ http://mail.google.com/support/bin/answer.py?hl=en&amp;answer=12096
 Please update your regular expressions so that it accepts email
 addresses that contain the symbol "+".
 This should be done (at least) in your regex on
-http://www.united.com/ual/asset/err_myprof.js line 937:
-var emailRe = /^[a-zA-Z0-9._-]+@([a-zA-Z0-9.-]+.)+[a-zA-Z0-9.-]{2,4}$/.test(chkVal.value);
+http://www.united.com/ual/asset/err_myprof.js line 937::
 
-include a plus in "[a-zA-Z0-9._-]"
+  var emailRe = /^[a-zA-Z0-9._-]+@([a-zA-Z0-9.-]+.)+[a-zA-Z0-9.-]{2,4}$/.test(chkVal.value);
+
+include a plus in ``[a-zA-Z0-9._-]``
 
 It might not seem very important to you, but once you get the habit of
 using aliases to filter your mails to different labels (I have just
 created a special "United" label to store your emails), having sites
 that say "your address is not valid" when it is is really frustrating.
 
-Let me say it once again: "a plus sign in an email address is valid,
-so don't say it's not!"
+Let me say it once again: **a plus sign in an email address is valid,
+so don't say it's not!**
 
