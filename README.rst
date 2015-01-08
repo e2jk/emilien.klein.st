@@ -12,7 +12,7 @@ Building, testing and deploying
 
 See the site: http://127.0.0.1:8000
 
-Deploying: TBD
+Deploying: Just call ``nikola deploy``. That will ``rsync`` the ``output`` folder, and keep a backup in the ``../emilien.klein.st-backup`` folder using ``rdiff-backup``.
 
 Useful links
 ============
