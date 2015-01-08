@@ -510,14 +510,16 @@ CONTENT_FOOTER = {
 "en": """
 Contents &copy; {date}
 <a href="mailto:{email}">{author}</a> -
-Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a>.
+Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> -
+<a href="https://github.com/e2jk/emilien.klein.st">Source</a>.
 <br />
 {license}""",
 
 "fr": """
 Contenu &copy; {date}
 <a href="mailto:{email}">{author}</a> -
-Propulsé par <a href="http://getnikola.com" rel="nofollow">Nikola</a>.
+Propulsé par <a href="http://getnikola.com" rel="nofollow">Nikola</a> -
+<a href="https://github.com/e2jk/emilien.klein.st">Source</a>.
 <br />
 {license}
 """,
@@ -525,7 +527,8 @@ Propulsé par <a href="http://getnikola.com" rel="nofollow">Nikola</a>.
 "es": """
 Contenido &copy; {date}
 <a href="mailto:{email}">{author}</a> -
-Impulsado por <a href="http://getnikola.com" rel="nofollow">Nikola</a>.
+Impulsado por <a href="http://getnikola.com" rel="nofollow">Nikola</a> -
+<a href="https://github.com/e2jk/emilien.klein.st">Código</a>.
 <br />
 {license}
 """,
@@ -533,7 +536,8 @@ Impulsado por <a href="http://getnikola.com" rel="nofollow">Nikola</a>.
 "nl": """
 Inhoud &copy; {date}
 <a href="mailto:{email}">{author}</a> -
-Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a>.
+Powered by <a href="http://getnikola.com" rel="nofollow">Nikola</a> -
+<a href="https://github.com/e2jk/emilien.klein.st">Bron</a>.
 <br />
 {license}
 """
@@ -693,10 +697,10 @@ SOCIAL_BUTTONS_CODE = ""
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
