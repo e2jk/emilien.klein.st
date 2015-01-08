@@ -112,24 +112,28 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/contact/", "Contact"),
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
     ),
 
     "fr": (
+        ("/fr/contact/", "Contact"),
         ("/fr/archive.html", "Archives"),
         ("/fr/categories/index.html", "Étiquettes"),
         ("/fr/rss.xml", "Flux RSS"),
     ),
 
     "es": (
+        ("/es/contacto/", "Contacto"),
         ("/es/archive.html", "Archivo"),
         ("/es/categories/index.html", "Tags"),
         ("/es/rss.xml", "feed RSS"),
     ),
 
     "nl": (
+        ("/nl/contact/", "Contact"),
         ("/nl/archive.html", "Archief"),
         ("/nl/categories/index.html", "Tags"),
         ("/nl/rss.xml", "RSS-feed"),
@@ -214,8 +218,8 @@ POSTS = (
     ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.txt", "", "story.tmpl"),
 )
 
 # One or more folders containing files to be copied as-is into the output.
