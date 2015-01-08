@@ -113,6 +113,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/contact/", "Contact"),
+        ("https://links.klein.st/", "Shaarli"),
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
@@ -120,6 +121,7 @@ NAVIGATION_LINKS = {
 
     "fr": (
         ("/fr/contact/", "Contact"),
+        ("https://links.klein.st/", "Shaarli"),
         ("/fr/archive.html", "Archives"),
         ("/fr/categories/index.html", "Étiquettes"),
         ("/fr/rss.xml", "Flux RSS"),
@@ -127,6 +129,7 @@ NAVIGATION_LINKS = {
 
     "es": (
         ("/es/contacto/", "Contacto"),
+        ("https://links.klein.st/", "Shaarli"),
         ("/es/archive.html", "Archivo"),
         ("/es/categories/index.html", "Tags"),
         ("/es/rss.xml", "feed RSS"),
@@ -134,6 +137,7 @@ NAVIGATION_LINKS = {
 
     "nl": (
         ("/nl/contact/", "Contact"),
+        ("https://links.klein.st/", "Shaarli"),
         ("/nl/archive.html", "Archief"),
         ("/nl/categories/index.html", "Tags"),
         ("/nl/rss.xml", "RSS-feed"),
