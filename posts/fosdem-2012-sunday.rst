@@ -9,6 +9,8 @@ This is the list of talks/presentations I attended on the Sunday of FOSDEM 2012.
 
 Each talk contains a link to its FOSDEM page, where you can find extra links on the topic or the presenter.
 
+.. TEASER_END
+
 * `Asterisk 10: New Features, New Testing <http://fosdem.org/2012/schedule/event/asterisk_10>`_ - Matt Jordan: Asterisk 10 added many new features, and includes substantial automated testing.
 
   Asterisk 10 was recently released, and incorporates many new features, including nearly unlimited support for codec formats and sample rates, wideband audio conferencing, and much more. In addition, the Asterisk project team has built a large suite of unit and functional tests that are now run against each Asterisk release.

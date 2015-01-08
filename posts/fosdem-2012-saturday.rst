@@ -9,6 +9,8 @@ This is the list of talks/presentations I attended on the Saturday of FOSDEM 201
 
 Each talk contains a link to its FOSDEM page, where you can find extra links on the topic or the presenter.
 
+.. TEASER_END
+
 * `Welcome to FOSDEM 2012 <http://fosdem.org/2012/schedule/event/keynotes_welcome>`_: FOSDEM welcome and opening talk.
 * `Free Software: A viable model for Commercial Success <http://fosdem.org/2012/schedule/event/keynotes_model_success>`_ - Robert Dewar: This talk will discuss our experience at AdaCore, one of only a handful of 100% Free Software companies. All of our commercial products are licensed under the GPL and other Free Software Licenses. People often assume that there is a conflict between the use of such licenses and the needs of a commercial software company. Our experience at AdaCore shows that on the contrary, the Free Software model can be very successful both for us as a company and for our customers. We think this model can be used in many other circumstances, and want to encourage free software enthusiasts to consider this model in other circumstances.
 * `An introduction to Ada 2005 and Ada 2012 <http://fosdem.org/2012/schedule/event/introduction_to_ada>`_ - Jean-Pierre Rosen: Overview of the main features of the Ada language, with special emphasis on those features that make it especially attractive for free software development.

@@ -7,6 +7,8 @@
 
 Yesterday I submitted my first Debian package. The packaged software is `Nautilus Image Manipulator <https://launchpad.net/nautilus-image-manipulator>`_, a program I started writing as a Christmas present for my father 3 months ago. It seemed as a good fit for learning how to do Debian packaging.
 
+.. TEASER_END
+
 The package has been submitted to http://mentors.debian.net/ and can be found `there <http://mentors.debian.net/cgi-bin/sponsor-pkglist?action=details;package=nautilus-image-manipulator>`_. I hope I haven't messed it up too much ;)
 
 EDIT: Here are some links that were pretty useful to me to understand the packaging process:

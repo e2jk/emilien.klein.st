@@ -5,7 +5,9 @@
 .. slug: install-citrix-ica-client-on-ubuntu-11.04
 .. type: text
 
-These are the steps I used to install the Citrix ICA Client (also called "Citrix Receiver for Linux") on my freshly installed Ubuntu 11.04 box:
+These are the steps I used to install the Citrix ICA Client (also called "Citrix Receiver for Linux") on my freshly installed Ubuntu 11.04 box.
+
+.. TEASER_END
 
 * First of all, install the following package: ``sudo aptitude install libmotif4``
 * Download the latest ``.tar.gz`` from `Citrix's website <http://www.citrix.com/English/ss/downloads/details.asp?downloadId=3323&productId=186>`_.

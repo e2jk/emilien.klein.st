@@ -5,7 +5,9 @@
 .. slug: ubuntu-11.10-beta1-bugs
 .. type: text
 
-These are the bugs I reported (or commented on) while testing Ubuntu 11.10 beta 1:
+These are the bugs I reported (or commented on) while testing Ubuntu 11.10 beta 1.
+
+.. TEASER_END
 
 * `Narwhals visible in installation slideshow <https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/843781>`_: Reported on 2011-09-07, Fix Released on 2011-09-18
 * `Installation slideshow for 11.10 shows Evolution instead of Thunderbird as mail program <https://bugs.launchpad.net/ubuntu/+source/ubiquity-slideshow-ubuntu/+bug/843834>`_: Reported on 2011-09-07, Fix Released on 2011-09-18

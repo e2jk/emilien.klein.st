@@ -11,6 +11,8 @@ This is the content of an email message I sent to United (the airline) about 2 y
 
 Edit 11/10/2011: Look at this `good link <http://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx>`_ resuming the issue around email regexes, with links to the RFC and some nice examples of "weird" email addresses.
 
+.. TEASER_END
+
 ================================================================
 
 PLEASE FORWARD TO YOUR TECHNICAL SERVICES
@@ -43,3 +45,4 @@ that say "your address is not valid" when it is is really frustrating.
 
 Let me say it once again: "a plus sign in an email address is valid,
 so don't say it's not!"
+
