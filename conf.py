@@ -115,6 +115,7 @@ NAVIGATION_LINKS = {
         ("/contact/", "Contact"),
         ("https://links.klein.st/", "Shaarli"),
         ((
+            ("/posts/", "Home page"),
             ("/archive.html", "Archive"),
             ("/categories/index.html", "Tags"),
             ("/rss.xml", "RSS feed"),
@@ -125,6 +126,7 @@ NAVIGATION_LINKS = {
         ("/fr/contact/", "Contact"),
         ("https://links.klein.st/", "Shaarli"),
         ((
+            ("/fr/posts/", "Page d'accueil"),
             ("/fr/archive.html", "Archives"),
             ("/fr/categories/index.html", "Étiquettes"),
             ("/fr/rss.xml", "Flux RSS"),
@@ -135,6 +137,7 @@ NAVIGATION_LINKS = {
         ("/es/contacto/", "Contacto"),
         ("https://links.klein.st/", "Shaarli"),
         ((
+            ("/es/posts/", "Página principal"),
             ("/es/archive.html", "Archivo"),
             ("/es/categories/index.html", "Tags"),
             ("/es/rss.xml", "feed RSS"),
@@ -145,6 +148,7 @@ NAVIGATION_LINKS = {
         ("/nl/contact/", "Contact"),
         ("https://links.klein.st/", "Shaarli"),
         ((
+            ("/nl/posts/", "Home page"),
             ("/nl/archive.html", "Archief"),
             ("/nl/categories/index.html", "Tags"),
             ("/nl/rss.xml", "RSS-feed"),
@@ -301,7 +305,7 @@ COMPILERS = {
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
+INDEX_PATH = "posts"
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
