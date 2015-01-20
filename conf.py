@@ -511,7 +511,8 @@ RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_rea
 # (translatable)
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
-LICENSE = """
+LICENSE = {
+"en": """
 This work by
 <a xmlns:cc="http://creativecommons.org/ns#" href="http://emilien.klein.st/" property="cc:attributionName" rel="cc:attributionURL">
 Emilien Klein
@@ -521,7 +522,42 @@ Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
 </a>
+""",
+
+"fr": """
+Cette œuvre d'<a xmlns:cc="http://creativecommons.org/ns#" href="http://emilien.klein.st/" property="cc:attributionName" rel="cc:attributionURL">Emilien Klein
+</a> est mise à disposition selon les termes de la
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
+</a>
+""",
+
+"es": """
+Este obra cuyo autor es
+<a xmlns:cc="http://creativecommons.org/ns#" href="http://emilien.klein.st/" property="cc:attributionName" rel="cc:attributionURL">
+Emilien Klein
+</a> está bajo una
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+licencia de Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
+</a>
+""",
+
+"nl": """
+Dit werk van
+<a xmlns:cc="http://creativecommons.org/ns#" href="http://emilien.klein.st/" property="cc:attributionName" rel="cc:attributionURL">
+Emilien Klein
+</a> valt onder een
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal-licentie</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
+</a>
 """
+}
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
