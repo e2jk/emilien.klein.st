@@ -20,7 +20,7 @@ I'll have to investigate these SPA frameworks a bit more, for now the ones on my
 
 * `Backbone.js <http://backbonejs.org/>`_
 * `AngularJS <https://angularjs.org/>`_ (I'm currently reading the `AngularJS: Up and Running <http://shop.oreilly.com/product/0636920033486.do>`_ book)
-* `Ampersand.js <http://ampersandjs.com/>`_ (I've also recently finished reading the `Human JavaScript <http://read.humanjavascript.com/>`_ book.
+* `Ampersand.js <http://ampersandjs.com/>`_ (I've also recently finished reading the :doc:`Human JavaScript <human-javascript>` book.
 
 Happy web coding!
 
