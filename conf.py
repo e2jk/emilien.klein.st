@@ -828,7 +828,9 @@ COPY_SOURCES = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+<link href="https://www.google.com/accounts/o8/ud" rel="openid2.provider" />
+<link href="https://www.google.com/profiles/EmilienKlein" rel="openid2.local_id" />"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
