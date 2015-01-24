@@ -1,7 +1,7 @@
 .. title: Human JavaScript
 .. slug: human-javascript
 .. date: 2015-01-10 06:40:04 UTC+01:00
-.. tags: books,webdev,spa,ampersand.js
+.. tags: books,webdev,spa,ampersand.js,review
 .. category: 
 .. link: 
 .. description: 

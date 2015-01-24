@@ -1,7 +1,7 @@
 .. title: Lightweight Django
 .. slug: lightweight-django
 .. date: 2015-01-18 21:04:54 UTC+01:00
-.. tags: django,books,webdev,spa,rest,api,testing,backbone.js,angularjs,ampersand.js
+.. tags: django,books,webdev,spa,rest,api,testing,backbone.js,angularjs,ampersand.js,review
 .. category: 
 .. link: 
 .. description: 
