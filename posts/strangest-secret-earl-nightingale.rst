@@ -45,6 +45,20 @@ My notes from listening to `Earl Nightingale <https://en.wikipedia.org/wiki/Earl
 
 * Pay the price, by becoming the person you want to become. It's not nearly as difficult as living unsuccessfully.
 
+* To be successful in selling our way of the good life, we must be willing to pay the price. What is that price?
+
+  1. You will become what you think about
+
+  2. Imagination: realize your limitations are self-imposed, rise above narrow minded pettiness and prejudice.
+
+  3. Courage: concentrate on your goal every day
+
+  4. Save at least 10% of every dollar you earn
+
+  5. Action: ideas are worthless unless we act on them
+
+* Russell Conwell: "Your are standing in the middle of your own acre of diamonds"
+
 * Start today. You have nothing to lose, but you have your whole life to win.
 
 * 30 days plan:
@@ -56,4 +70,22 @@ My notes from listening to `Earl Nightingale <https://en.wikipedia.org/wiki/Earl
   3. Your success will always be measured by the quality and quantity of service you render. Most people have this law backwards. It's like the man who stands in front of the stove and says to it: "Give me heat and then I'll add the wood."
 
 * Above all, don't worry! Worry brings fear, and fear is crippling. The only thing that can cause you to worry during your test is trying to do it all yourself. Know that all you have to do is hold your goal before you. Everything else will take care of itself.
+
+* The only way to earn money is by providing people with services or products which are needed and useful. We exchange our time and our product or service for the other man’s money. Therefore, the law is that our financial return will be in direct proportion to our service. Success is not the result of making money. Making money is the result of success, and success is in direct proportion to our service.
+
+* No man can get rich himself unless he enriches others.
+
+* Six steps that will help you realize success.
+
+  1. Set yourself a definite goal.
+
+  2. Quit running yourself down.
+
+  3. Stop thinking of all the reasons why you cannot be successful and instead think of all the reasons why you can.
+
+  4. Trace your attitudes back through your childhood and try to discover where you first got the idea that you couldn’t be successful if that’s the way you’ve been thinking.
+
+  5. Change the image you have of yourself by writing out a description of the person you would like to be.
+
+  6. Act the part of the successful person you have decided to become.
 
