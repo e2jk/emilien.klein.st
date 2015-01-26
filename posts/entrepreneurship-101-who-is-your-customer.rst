@@ -67,3 +67,20 @@ Here's what you'll learn to do in this course:
 
    Successful entrepreneurs must have extreme self-discipline because they have few resources, no reputation, and a very finite amount of time in which to succeed.
 
+Step 1: Market Segmentation
+===========================
+
+The Lamborghini Story
+---------------------
+
+You have set up a Lamborghini shop, a friend that owns a Volvo asks if you can repair her car. **You shouldn't**. If you want to have a business, you need a paying customer. But we need multiple paying customers. So we have to focus on getting a paying customer that's similar in nature  and deselect all these other people.
+
+We're going to focus on a specific customer, or group of customers where they're all pretty similar. And then we're going to build the company back from them.
+And we're going to do it with great focus, and deselect everything else and not get distracted.
+
+
+What is market segmentation?
+----------------------------
+A systematic categorization of potential markets for your idea, a description of multiple groups of target customers, groups that are homogeneous and distinct.
+
+Identify potential industries for your idea. Subdivide each industry into markets and market segments. List the people who might benefit from your idea in each industry, and ideally in each market segment. Focus first on end users, not customers. Your end user is a person who uses your product, your customer pays for it. Once you have identified the end users, describe the various tasks that they perform and how they would use your product. List the top six to twelve market segments that are most interesting. After that, your next step is primary market research. In other words, going and talk to some real people. Theory doesn't produce data, action does.
