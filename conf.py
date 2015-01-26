@@ -335,6 +335,9 @@ INDEX_PATH = "posts"
 # often removed or replaced as well.
 # SLUG_TAG_PATH = True
 
+# Setting new option to False, as that will be the new default in v8
+WRITE_TAG_CLOUD = False
+
 # A list of redirection tuples, [("foo/from.html", "/bar/to.html")].
 #
 # A HTML file will be created in output/foo/from.html that redirects
