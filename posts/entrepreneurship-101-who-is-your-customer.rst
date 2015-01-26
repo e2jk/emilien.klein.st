@@ -11,9 +11,9 @@ Just around the new year, I have enrolled in the edX course `MITx: 15.390.1x Ent
 
 It kind of slipped off my radar in the past 2 weeks, but it's now back in my focus and I plan to make good progress on it quickly. The estimated effort is around 4 hours per week, and the course lasts for 12 week, so I'd better get to it quickly to not accumulate too much backlog...
 
-.. TEASER_END: Notes ahead!
+I will be updating this post as I go along the course. Last update: 2015-01-26.
 
-I will be updating this post as I go along the course.
+.. TEASER_END: Notes ahead!
 
 Introduction
 ============
