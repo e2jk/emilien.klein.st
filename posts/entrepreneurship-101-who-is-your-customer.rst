@@ -20,8 +20,8 @@ Introduction
 
 Entrepreneurship Can Be Taught.
 
-Early Quiz (NOT Graded)
------------------------
+Early Quiz
+----------
 
 "Our goal is to identify some misconceptions you may have about entrepreneurship and what it takes to create a successful business."
 
@@ -44,20 +44,26 @@ Here's what you'll learn to do in this course:
 ---------------------------
 
 1. Entrepreneurs are born, not made.
+
    Skills such as management, sales, and product consumption can be taught and learned.
 
 2. Individuals start companies.
+
    Usually a diversified team of founders. Building your dream team with more founders equals a better chance of success.
 
 3. Entrepreneurs are the smartest people in the room.
+
    They tend to focus on something that deeply fascinates them, and then go into hype-focused mode. Focus and dedication make for successful entrepreneurs.
 
 4. All leaders are charismatic and their charisma is a key factor in success.
+
    More than charisma, successful entrepreneurs exhibit characteristics such as vision, systematic thinking, strong analytic skills, a blend of humility and ambition ("humbition") and outstanding, disciplined execution skills.
 
 5. Entrepreneurs love risk.
+
    Most successful entrepreneurs don't enjoy gambling. Great entrepreneurs prefer intelligent risk-taking, removing as much risk as possible and only take calculated risks.
 
 6. Entrepreneurs are undisciplined.
+
    Successful entrepreneurs must have extreme self-discipline because they have few resources, no reputation, and a very finite amount of time in which to succeed.
 
