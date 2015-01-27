@@ -360,6 +360,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {'default': [
     'rsync -rav -e "ssh -p 21324" --delete output/ e2jk@pascal.klein.st:/var/www/html/emilien.klein.st',
+    'git push',
     'rdiff-backup output ../emilien.klein.st-backup',
 ]}
 
