@@ -7,6 +7,9 @@
 .. description: 
 .. type: text
 
+.. thumbnail:: /assets/img/lightweight-django.jpg
+   :align: right
+
 I've finished reading the `Lightweight Django <http://shop.oreilly.com/product/0636920032502.do>`_ book by Julia Elman and Mark Lavin, which marks in a way my return to web development (more on this topic in February). I will most likely start working on a web application next month, and the concepts introduced in this book will come in handy:
 
 * Creating a REST API using Django
