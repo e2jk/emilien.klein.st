@@ -114,9 +114,6 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/', 'Home', 'icon-home'),
         ("/posts/", "Blog", 'icon-book'),
-        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
-        ('/categories/', 'Tags', 'icon-tags'),
-        ('/rss.xml', 'RSS', 'icon-rss'),
         ('/contact/', 'Contact', 'icon-envelope'),
         ('https://www.linkedin.com/in/emilienklein', 'My LinkedIn', 'icon-linkedin'),
         ('https://github.com/e2jk', 'My Github', 'icon-github'),
@@ -127,9 +124,6 @@ NAVIGATION_LINKS = {
     "fr": (
         ('/fr/', "Page d'accueil", 'icon-home'),
         ("/fr/posts/", "Blog", 'icon-book'),
-        ('/fr/archive.html', 'Archives', 'icon-folder-open-alt'),
-        ('/fr/categories/', 'Étiquettes', 'icon-tags'),
-        ('/fr/rss.xml', 'RSS', 'icon-rss'),
         ('/fr/contact/', 'Contact', 'icon-envelope'),
         ('https://www.linkedin.com/in/emilienklein', 'Mon LinkedIn', 'icon-linkedin'),
         ('https://github.com/e2jk', 'Mon Github', 'icon-github'),
@@ -140,9 +134,6 @@ NAVIGATION_LINKS = {
     "es": (
         ('/es/', "Página principal", 'icon-home'),
         ("/es/posts/", "Blog", 'icon-book'),
-        ('/es/archive.html', 'Archivo', 'icon-folder-open-alt'),
-        ('/es/categories/', 'Tags', 'icon-tags'),
-        ('/es/rss.xml', 'RSS', 'icon-rss'),
         ('/es/contacto/', 'Contacto', 'icon-envelope'),
         ('https://www.linkedin.com/in/emilienklein', 'Mi LinkedIn', 'icon-linkedin'),
         ('https://github.com/e2jk', 'Mi Github', 'icon-github'),
@@ -153,9 +144,6 @@ NAVIGATION_LINKS = {
     "nl": (
         ('/nl/', "Home page", 'icon-home'),
         ("/nl/posts/", "Blog", 'icon-book'),
-        ('/nl/archive.html', 'Archief', 'icon-folder-open-alt'),
-        ('/nl/categories/', 'Tags', 'icon-tags'),
-        ('/nl/rss.xml', 'RSS', 'icon-rss'),
         ('/nl/contact/', 'Contact', 'icon-envelope'),
         ('https://www.linkedin.com/in/emilienklein', 'Mijn LinkedIn', 'icon-linkedin'),
         ('https://github.com/e2jk', 'Mijn Github', 'icon-github'),
