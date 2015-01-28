@@ -112,52 +112,57 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ((
-            ("/posts/", "Home page"),
-            ("/archive.html", "Archive"),
-            ("/categories/index.html", "Tags"),
-            ("/rss.xml", "RSS feed"),
-        ), "Blog"),
-        ("https://links.klein.st/", "Shaarli"),
-        ("/contact/", "Contact"),
+        ('/', 'Home', 'icon-home'),
+        ("/posts/", "Blog", 'icon-book'),
+        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+        ('/categories/', 'Tags', 'icon-tags'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
+        ('/contact/', 'Contact', 'icon-envelope'),
+        ('https://github.com/e2jk', 'My Github', 'icon-github'),
+        ('https://plus.google.com/+EmilienKlein', 'My Google Plus', 'icon-google-plus'),
+        ('https://twitter.com/e2jk', 'My Twitter', 'icon-twitter'),
     ),
 
     "fr": (
-        ((
-            ("/fr/posts/", "Page d'accueil"),
-            ("/fr/archive.html", "Archives"),
-            ("/fr/categories/index.html", "Étiquettes"),
-            ("/fr/rss.xml", "Flux RSS"),
-        ), "Blog"),
-        ("https://links.klein.st/", "Shaarli"),
-        ("/fr/contact/", "Contact"),
+        ('/fr/', "Page d'accueil", 'icon-home'),
+        ("/fr/posts/", "Blog", 'icon-book'),
+        ('/fr/archive.html', 'Archives', 'icon-folder-open-alt'),
+        ('/fr/categories/', 'Étiquettes', 'icon-tags'),
+        ('/fr/rss.xml', 'RSS', 'icon-rss'),
+        ('/fr/contact/', 'Contact', 'icon-envelope'),
+        ('https://github.com/e2jk', 'Mon Github', 'icon-github'),
+        ('https://plus.google.com/+EmilienKlein', 'Mon Google Plus', 'icon-google-plus'),
+        ('https://twitter.com/e2jk', 'Mon Twitter', 'icon-twitter'),
     ),
 
     "es": (
-        ((
-            ("/es/posts/", "Página principal"),
-            ("/es/archive.html", "Archivo"),
-            ("/es/categories/index.html", "Tags"),
-            ("/es/rss.xml", "feed RSS"),
-        ), "Blog"),
-        ("https://links.klein.st/", "Shaarli"),
-        ("/es/contacto/", "Contacto"),
+        ('/es/', "Página principal", 'icon-home'),
+        ("/es/posts/", "Blog", 'icon-book'),
+        ('/es/archive.html', 'Archivo', 'icon-folder-open-alt'),
+        ('/es/categories/', 'Tags', 'icon-tags'),
+        ('/es/rss.xml', 'RSS', 'icon-rss'),
+        ('/es/contacto/', 'Contacto', 'icon-envelope'),
+        ('https://github.com/e2jk', 'Mi Github', 'icon-github'),
+        ('https://plus.google.com/+EmilienKlein', 'Mi Google Plus', 'icon-google-plus'),
+        ('https://twitter.com/e2jk', 'Mi Twitter', 'icon-twitter'),
     ),
 
     "nl": (
-        ((
-            ("/nl/posts/", "Home page"),
-            ("/nl/archive.html", "Archief"),
-            ("/nl/categories/index.html", "Tags"),
-            ("/nl/rss.xml", "RSS-feed"),
-        ), "Blog"),
-        ("https://links.klein.st/", "Shaarli"),
-        ("/nl/contact/", "Contact"),
+        ('/nl/', "Home page", 'icon-home'),
+        ("/nl/posts/", "Blog", 'icon-book'),
+        ('/nl/archive.html', 'Archief', 'icon-folder-open-alt'),
+        ('/nl/categories/', 'Tags', 'icon-tags'),
+        ('/nl/rss.xml', 'RSS', 'icon-rss'),
+        ('/nl/contact/', 'Contact', 'icon-envelope'),
+        ('https://github.com/e2jk', 'Mijn Github', 'icon-github'),
+        ('https://plus.google.com/+EmilienKlein', 'Mijn Google Plus', 'icon-google-plus'),
+        ('https://twitter.com/e2jk', 'Mijn Twitter', 'icon-twitter'),
     ),
 }
 
+
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "zen"
 
 # Below this point, everything is optional
 
@@ -891,7 +896,7 @@ UNSLUGIFY_TITLES = True
 # }
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
-# USE_BUNDLES = True
+USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
