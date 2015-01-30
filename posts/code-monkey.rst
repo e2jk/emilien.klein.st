@@ -1,5 +1,5 @@
 .. description: Code Monkey by Jonathan Coulton
-.. tags: video,jonathan-coulton
+.. tags: video,jonathan coulton
 .. date: 2011-01-13 00:35:00 GMT
 .. title: Code Monkey by Jonathan Coulton
 .. slug: code-monkey
