@@ -1,7 +1,7 @@
 .. title: The Strangest Secret - Earl Nightingale
 .. slug: strangest-secret-earl-nightingale
 .. date: 2015-01-24 17:44:45 UTC+01:00
-.. tags: growth,self-development,goals,review
+.. tags: growth,self development,goals,review
 .. category: 
 .. link: 
 .. description: 

@@ -1,7 +1,7 @@
 .. title: Entrepreneurship 101: Who is your customer?
 .. slug: entrepreneurship-101-who-is-your-customer
 .. date: 2015-01-24 18:45:30 UTC+01:00
-.. tags: edx,growth,self-development,entrepreneurship
+.. tags: edx,growth,self development,entrepreneurship
 .. category: 
 .. link: 
 .. description: 

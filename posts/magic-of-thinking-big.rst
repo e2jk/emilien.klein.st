@@ -1,7 +1,7 @@
 .. title: The Magic of Thinking Big
 .. slug: magic-of-thinking-big
 .. date: 2014-12-29
-.. tags: books,review,growth,self-development
+.. tags: books,review,growth,self development
 .. category: 
 .. link: 
 .. description: 
