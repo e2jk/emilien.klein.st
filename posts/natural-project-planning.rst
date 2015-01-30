@@ -1,7 +1,7 @@
 .. title: Natural Project Planning
 .. slug: natural-project-planning
 .. date: 2014-12-23
-.. tags: gtd,project-planning
+.. tags: gtd,project-planning,review
 .. category: 
 .. link: 
 .. description: 

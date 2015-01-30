@@ -1,7 +1,7 @@
 .. title: Tony Robbins - Awake the giant within
 .. slug: tony-robbins-awake-the-giant-within
 .. date: 2014-12-16
-.. tags: tony robbins,growth,self-development
+.. tags: tony robbins,growth,self-development,review
 .. category: 
 .. link: 
 .. description: 
