@@ -1,5 +1,5 @@
 .. description: FOSDEM 2012 - My Saturday's schedule
-.. tags: fosdem
+.. tags: fosdem,fosdem 2012
 .. date: 2012-02-09 18:27:05 GMT
 .. title: FOSDEM 2012 - My Saturday's schedule
 .. slug: fosdem-2012-saturday

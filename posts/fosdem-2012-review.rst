@@ -1,7 +1,7 @@
 .. title: FOSDEM 2012 review
 .. slug: fosdem-2012-review
 .. date: 2012-02-09 19:40:00 GMT
-.. tags: fosdem
+.. tags: fosdem,fosdem 2012
 .. link: 
 .. description: 
 .. type: text
