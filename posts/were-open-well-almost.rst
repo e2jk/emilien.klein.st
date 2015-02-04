@@ -1,7 +1,7 @@
 .. title: We're open! (well, almost)
 .. slug: were-open-well-almost
 .. date: 2015-01-29 17:27:26 UTC+01:00
-.. tags: entrepreneurship,business
+.. tags: entrepreneurship,business,zorg piloot,mental martial arts
 .. category: 
 .. link: 
 .. description: 
