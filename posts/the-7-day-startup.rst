@@ -1,7 +1,7 @@
 .. title: The 7 Day Startup
 .. slug: the-7-day-startup
 .. date: 2015-02-03
-.. tags: private,books,review,growth,self development,entrepreneurship
+.. tags: books,review,growth,self development,entrepreneurship
 .. category:
 .. link:
 .. description:
@@ -10,6 +10,8 @@
 These are my notes from the book by Dan Norris, `The 7 Day Startup: You Don't Learn Until You Launch <http://www.amazon.com/dp/B00NZFKB8S>`_.
 
 Check out `wpcurve.com/the-7-day-startup <http://wpcurve.com/the-7-day-startup/>`_ for many of the worksheets and exercises.
+
+.. TEASER_END
 
 You Don’t Learn Until You Launch
 ================================
