@@ -1,10 +1,10 @@
 .. title: Lightweight Django
 .. slug: lightweight-django
 .. date: 2015-01-18 21:04:54 UTC+01:00
-.. tags: django,books,webdev,spa,rest,api,testing,backbone.js,angularjs,ampersand.js,review
-.. category: 
-.. link: 
-.. description: 
+.. tags: django,books,webdev,spa,rest,api,testing,backbone.js,angularjs,ampersand.js,review,javascript
+.. category:
+.. link:
+.. description:
 .. type: text
 
 .. thumbnail:: /assets/img/lightweight-django.jpg
@@ -26,4 +26,3 @@ I'll have to investigate these SPA frameworks a bit more, for now the ones on my
 * `Ampersand.js <http://ampersandjs.com/>`_ (I've also recently finished reading the :doc:`Human JavaScript <human-javascript>` book.
 
 Happy web coding!
-
