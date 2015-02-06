@@ -11,6 +11,6 @@ While reading through the Ampersand.js documentation, I came upon `this page <ht
 
 The problem is that when different people (e.g. a developer and a designer) collaborate on a CSS + JavaScript application, if one of them changes the selector (``id`` or ``class``) the other person's side of the application may break (missing style, or broken js).
 
-By using the "data-hook" attribute instead to providing selectors to JavaScript code, an HTML/CSS dev can go change whatever else they want in the template without fear of breaking the JavaScript.
+By using the "data-hook" attribute instead to provide selectors for the JavaScript code, an HTML/CSS dev can go change whatever else they want in the template without fear of breaking the JavaScript.
 
 Brilliant!
