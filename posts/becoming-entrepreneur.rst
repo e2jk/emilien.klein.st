@@ -1,7 +1,7 @@
 .. title: Becoming an Entrepreneur
 .. slug: becoming-entrepreneur
 .. date: 2015-02-01
-.. tags: books,review,growth,self development,entrepreneurship
+.. tags: books,review,growth,self development,entrepreneurship,lr
 .. category:
 .. link:
 .. description:
