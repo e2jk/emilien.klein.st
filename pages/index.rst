@@ -1,9 +1,14 @@
 .. title: Welcome
 .. slug: index
-.. tags: 
-.. link: 
+.. tags:
+.. link:
 .. description: Emilien Klein's personal site
 .. type: text
+
+Hi, my name is Emilien Klein, I live in 's-Hertogenbosch, The Netherlands. In February 2015 I started two companies:
+
+* `Zorg Piloot <http://zorgpiloot.nl/>`_: Hospital Information System project leader services for implementation and conversions
+* `Mental Martial Arts <http://mentalmartialarts.nl/>`_: Productivity coaching based on the Getting Things Done®, Total Workday Control® and Pomodoro® techniques
 
 Have a look around!
 
@@ -19,4 +24,3 @@ Don't hesitate to :doc:`get in touch <contact>`.
 
 | Cheers,
 |     +Emilien.
-
