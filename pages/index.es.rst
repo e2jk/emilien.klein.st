@@ -1,4 +1,4 @@
-.. title: Bienvenidos
+.. title: Bienvenido
 .. slug: index
 .. tags:
 .. link:
