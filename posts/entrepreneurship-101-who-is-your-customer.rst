@@ -11,7 +11,7 @@ Just around the new year, I have enrolled in the edX course `MITx: 15.390.1x Ent
 
 It kind of slipped off my radar in the past 2 weeks, but it's now back in my focus and I plan to make good progress on it quickly. The estimated effort is around 4 hours per week, and the course lasts for 12 week, so I'd better get to it quickly to not accumulate too much backlog...
 
-I will be updating this post as I go along the course. Last update: 2015-01-26.
+I will be updating this post as I go along the course. Last update: 2015-02-20.
 
 .. TEASER_END: Notes ahead!
 
@@ -66,6 +66,18 @@ Here's what you'll learn to do in this course:
 6. Entrepreneurs are undisciplined.
 
    Successful entrepreneurs must have extreme self-discipline because they have few resources, no reputation, and a very finite amount of time in which to succeed.
+
+Wrap-Up
+-------
+
+1) **Articulate the idea**. Describe it. If you aren’t sure how, focus on answering these questions:
+
+   - **What** is the problem you want to solve
+   - **Who** experiences that problem
+   - **How** you want to solve that problem
+   - **Why** this is a better solution
+
+2) **Reach out to at least 10 people** who you think are potential users/customers for the idea.  Schedule time to meet with them or speak by phone.
 
 Step 1: Market Segmentation
 ===========================
