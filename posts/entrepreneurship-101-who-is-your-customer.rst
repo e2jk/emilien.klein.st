@@ -155,3 +155,36 @@ Key Lessons
 * Lesson #2: Focus is vital.  In the beginning, your startup's scarce resources should be spent on attacking one market and one market only.  
 
 * Lesson #3: Attacking your biggest market first isn't usually the wisest plan.
+
+
+
+Step 3: End User Profile
+========================
+
+Are we ready to build the product now? Nope, we still have to refine our target end user even more.
+
+  User Ignoritis is curable only with a heavy dose of end user focus.
+
+What is an End User Profile?
+----------------------------
+
+An end-user profile is a description of a **narrowly defined subset** of end-users with similar **characteristics**, similar **needs**, and **word-of-mouth**.
+
+How to build an End User Profile
+--------------------------------
+
+Prospective end- users fall into three broad categories-- demographics, motivation, and behavior.
+
+- Demographic: What's their gender? What's their age range? What's their income range? What's their geographic location?
+
+- Motivation: What motivates them? What do they fear most in the world? Who's their hero?
+
+- Behavior: Where do they go for vacation? Where do they go for dinner? Where do they go before work? What newspapers do they read? What websites? What TV shows do they watch? What are their watering holes?
+
+Your process will be iterative. With each new end-user interview, you will learn new and important questions to ask other people. And you'll get a more and more refined end-user profile.
+
+  So in the beginning, it was a lot of cold emails. So basically just Googling the blind community or organizations that serve the blind. I randomly contacted people through LinkedIn and Facebook, and Twitter. [...] So I had a big list, a long list of organizations that serve the blind. And I basically emailed them, I called them. And in the beginning, the response rate was pretty low. [...] And so it was really hard to get their attention. So we started with really small self-organized organizations. [...] So I literally have to go knock on the door to meet with them individually. One meeting, it takes about at least one hour. [...] So I collect their feedbacks. And even if I make a really slight improvements in these iterations, I have to make another whole set of physical prototypes and again, do the whole thing over and over again, bringing the new iterations to them and say, "Hey, is this what you meant with your feedback?" Is this correct designs that you wanted? We went through more than 50 iterations.
+
+This persistence, this patience, these iterations, this dedication to truly listening to your end-users creates the foundation that you will need to achieve a breakthrough like Hyungsoo.
+
+Now, let's do an exercise. Think about a product that you buy often, and ask yourself, why? What makes you buy this product? Now, what you're going to do is build an end-user profile of yourself. Describe yourself in detail. Focus on factors that you think contribute strongly to the reasons why you buy this product. Think of others like yourself who would buy the same product. Do they fit in a homogeneous group with you? That would be an end-user profile.
