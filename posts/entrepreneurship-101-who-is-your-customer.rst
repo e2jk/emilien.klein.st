@@ -79,6 +79,8 @@ Wrap-Up
 
 2) **Reach out to at least 10 people** who you think are potential users/customers for the idea.  Schedule time to meet with them or speak by phone.
 
+
+
 Step 1: Market Segmentation
 ===========================
 
@@ -103,3 +105,53 @@ What to Do Next
 - Interview prospective customers/end users for your idea (Try to interview at least 10)
 - Begin conducting market segmentation
 
+
+
+Step 2: Beachhead Market
+========================
+
+A beachhead market is the first market that you will choose to pursue. And it will give you the advantage and capabilities that you will use to pursue additional markets later on that will be as good or better than your first market.
+
+Criteria for Selecting Your Beachhead Market
+--------------------------------------------
+
+7 questions to analyze very different and seemingly equally attractive market opportunities and then to take one amongst them:
+
+1. Does your customer have the money to pay for your product?
+
+2. Can you easily get the product to your customer? Is the customer accessible to you?
+
+3. Does the target customer have a strong reason to buy your product?
+
+4. Can you deliver the whole product?
+
+5. Is there entrenched competition that could block you from getting this business?
+
+6. If you win this market, we it help you win other segments as well? Is this a strategic market that will give you capability, credibility to win other markets that will be equally profitable or more profitable for you?
+
+7. Is the market consistent with the values, passions, and goals of the founding team? Is this something that you're going to feel comfortable doing for the next six years? Are your personal financial goals something that you need to realize in a three-year time horizon? And the market that you're looking at might require 10 years to mature.
+
+Key Measure of Success
+----------------------
+
+Being able to select a market and then to be disciplined and deselect other markets is key to success.
+
+What if you choose the wrong beachhead market? If it's going to fail, fail quickly, eliminate that option, and focus on the other ones that are higher potential. Action will produce real data, and that data will tell you whether your beachhead market will or will not be viable.
+
+Bigger Always Better?
+---------------------
+
+No. You want to find a market where you have the ability to totally dominate that market in a relatively short time period. And narrow focus markets is the best way to do this. You want to continue segmenting until your market opportunity matches the following three criteria that define a market:
+
+1. The customers buy similar product.
+2. The customers have a similar sales cycle.
+3. There must be word of mouth between the customers in this market. If you get one, they tell other people in that market.
+
+Key Lessons
+-----------
+
+* Lesson #1: The beachhead market is the market that you choose to attack and dominate first.  It serves as a platform for attacking follow-on markets.
+
+* Lesson #2: Focus is vital.  In the beginning, your startup's scarce resources should be spent on attacking one market and one market only.  
+
+* Lesson #3: Attacking your biggest market first isn't usually the wisest plan.
