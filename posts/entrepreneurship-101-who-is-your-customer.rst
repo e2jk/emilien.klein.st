@@ -2,9 +2,9 @@
 .. slug: entrepreneurship-101-who-is-your-customer
 .. date: 2015-01-24 18:45:30 UTC+01:00
 .. tags: edx,growth,self development,entrepreneurship
-.. category: 
-.. link: 
-.. description: 
+.. category:
+.. link:
+.. description:
 .. type: text
 
 Just around the new year, I have enrolled in the edX course `MITx: 15.390.1x Entrepreneurship 101: Who is your customer? <https://www.edx.org/course/entrepreneurship-101-who-customer-mitx-15-390-1x>`_.
@@ -36,7 +36,7 @@ See the world through the customer's eyes.
 
 Here's what you'll learn to do in this course:
 
-* Explore and analyze potential applications for your idea 
+* Explore and analyze potential applications for your idea
 * Choose the most promising markets and estimate their size
 * Develop a comprehensive, actionable understanding of the prospective customer
 
@@ -152,7 +152,7 @@ Key Lessons
 
 * Lesson #1: The beachhead market is the market that you choose to attack and dominate first.  It serves as a platform for attacking follow-on markets.
 
-* Lesson #2: Focus is vital.  In the beginning, your startup's scarce resources should be spent on attacking one market and one market only.  
+* Lesson #2: Focus is vital.  In the beginning, your startup's scarce resources should be spent on attacking one market and one market only.
 
 * Lesson #3: Attacking your biggest market first isn't usually the wisest plan.
 
