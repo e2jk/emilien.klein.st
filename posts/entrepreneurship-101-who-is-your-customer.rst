@@ -11,7 +11,7 @@ Just around the new year, I have enrolled in the edX course `MITx: 15.390.1x Ent
 
 It kind of slipped off my radar in the past 2 weeks, but it's now back in my focus and I plan to make good progress on it quickly. The estimated effort is around 4 hours per week, and the course lasts for 12 week, so I'd better get to it quickly to not accumulate too much backlog...
 
-I will be updating this post as I go along the course. Last update: 2015-02-20.
+I will be updating this post as I go along the course. Last update: 2015-03-03.
 
 .. TEASER_END: Notes ahead!
 
@@ -188,3 +188,18 @@ Your process will be iterative. With each new end-user interview, you will learn
 This persistence, this patience, these iterations, this dedication to truly listening to your end-users creates the foundation that you will need to achieve a breakthrough like Hyungsoo.
 
 Now, let's do an exercise. Think about a product that you buy often, and ask yourself, why? What makes you buy this product? Now, what you're going to do is build an end-user profile of yourself. Describe yourself in detail. Focus on factors that you think contribute strongly to the reasons why you buy this product. Think of others like yourself who would buy the same product. Do they fit in a homogeneous group with you? That would be an end-user profile.
+
+
+
+Step 4: Total Addressable Market
+================================
+
+TAM is the amount of annual revenue expressed in dollars per year. Dollars per year your business would earn if you achieved 100% market share in your chosen market.
+
+Primary market research is essential, because you really find out what your target customers are looking for, how are they currently doing this? What do they he about doing it? How could you make it more efficient, better, or just more enjoyable for them? The best way to estimate TAM is to determine the number of end users that fit your end-user profile through a bottoms up analysis. Of course, you can complement this with a top down analysis, and you should. This will confirm your findings. But only complement, never replace, primary market research with top down analysis.
+
+When you have the number for the end-user population variable, you look at the revenue, on average, that one end-user generates per year. Then multiply the two together, and you know your TAM.
+
+Generally, I recommend a TAM for your beachhead market between $20 million and $100 million per year. A TAM over $1 billion raises red flags. Your beachhead market is either not specific enough, or there will be formidable barriers to entry. If your TAM is less than $5 million per year, it's likely you haven't found a big enough beachhead market.
+
+Homework: Estimate the number of end-users in your beachhead market. Determine how much revenue each end-user is worth per year. Do both by a bottom up analysis but also check with a top down analysis. But focus mostly on the bottom up analysis.
