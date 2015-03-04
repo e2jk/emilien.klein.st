@@ -105,6 +105,14 @@ What to Do Next
 - Interview prospective customers/end users for your idea (Try to interview at least 10)
 - Begin conducting market segmentation
 
+Have a look at the following slides:
+
+.. raw:: html
+
+   <object data="https://studio.edx.org/c4x/MITx/15.390x/asset/15.390x_-_MARKET_SEGMENTATION_NEW.pdf" type="application/pdf" alt="PDF file" height="700" width="800">
+    <p>It appears you don't have a PDF plugin for this browser. No problem, you can still <a href="https://studio.edx.org/c4x/MITx/15.390x/asset/15.390x_-_MARKET_SEGMENTATION_NEW.pdf">download the PDF file.</a></p>
+    </object>
+
 
 
 Step 2: Beachhead Market
