@@ -15,6 +15,8 @@ I will be updating this post as I go along the course. Last update: 2015-03-04.
 
 .. TEASER_END: Notes ahead!
 
+.. contents:: Table of Contents
+
 Introduction
 ============
 
