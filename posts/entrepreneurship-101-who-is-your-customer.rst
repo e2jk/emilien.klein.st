@@ -11,7 +11,7 @@ Just around the new year, I have enrolled in the edX course `MITx: 15.390.1x Ent
 
 It kind of slipped off my radar in the past 2 weeks, but it's now back in my focus and I plan to make good progress on it quickly. The estimated effort is around 4 hours per week, and the course lasts for 12 week, so I'd better get to it quickly to not accumulate too much backlog...
 
-I will be updating this post as I go along the course. Last update: 2015-03-03.
+I will be updating this post as I go along the course. Last update: 2015-03-04.
 
 .. TEASER_END: Notes ahead!
 
@@ -203,3 +203,40 @@ When you have the number for the end-user population variable, you look at the r
 Generally, I recommend a TAM for your beachhead market between $20 million and $100 million per year. A TAM over $1 billion raises red flags. Your beachhead market is either not specific enough, or there will be formidable barriers to entry. If your TAM is less than $5 million per year, it's likely you haven't found a big enough beachhead market.
 
 Homework: Estimate the number of end-users in your beachhead market. Determine how much revenue each end-user is worth per year. Do both by a bottom up analysis but also check with a top down analysis. But focus mostly on the bottom up analysis.
+
+
+
+Step 5: Persona
+===============
+
+The persona should be a real person, not a composite, not an abstract. It should be someone you know and you have interviewed in the context of your startup and you can remember. By choosing an actual end-user as your persona, your persona becomes concrete and there's no room for second guessing. We can debate "these" questions internally 'til the cows come down, but if you have a real persona, there's only one right answer and it's pretty easy to find it.
+
+Prepare a fact sheet about the persona based on the information you already have. Include a visual picture, drawing, diagram of the individual. Include general demographic information about your persona:
+
+- When were they born? Where were they raised?
+- Where did they go to school?
+- What kind of family did they have?
+- What age are they today?
+- How did they look?
+- What kind of places do they like to go?
+- What company they work at?
+- How many years have they been there?
+- What kind of training did they go through?
+- What kind of managers did they have?
+- How often did they change?
+- What's their salary?
+- How do they get measured?
+- How did they get fired?
+- How did they get promoted?
+
+Once you have the draft fact sheet, interview the end-user --who is your persona-- and fill in the gaps that you know. Some successful start-ups also share the persona with each new employee. Other companies are very proud in the fact that they have personas for the customers that they target and they have personas for the customers that they're going to de-select.
+
+The persona is that north star that gets us all on the same page, and keeps us focused, efficient, and effective.
+
+Concluding thoughts:
+
+- No persona will represent all the characteristics of the target customer end-user profile. Get specific, get the best persona you can, but don't worry that it's not perfect.
+- Iteration is good. Correct errors, update your persona fact sheet. In fact, you may change your persona in its entirety. A persona is not a one-time event, but an iterative process that involves your entire team. Remember, keep your team involved. Their buyin, their understanding, is very, very important.
+- Building a persona is extremely helpful process to get to specificity, because it fosters cohesion in your team, not just when the exercise is done, but going forward thereafter.
+- When you have a multi-sided market, where you might have buyers and sellers, or users and advertisers, it's important to make a persona of both of them. But the first one you're going to make a persona of is the end-user, and then the economic buyer.
+- The persona discipline can be used to choose who your customer is, but the same persona discipline will choose who your customer is not, the anti-persona. Because discipline entrepreneurship is about not only knowing who your customer is, but who your customer is not.
