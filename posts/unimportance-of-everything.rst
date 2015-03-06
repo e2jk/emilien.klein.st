@@ -1,7 +1,7 @@
 .. title: The unimportance of everything
 .. slug: unimportance-of-everything
 .. date: 2015-03-06 12:26:21 UTC+01:00
-.. tags: quotes,motivational,growth,focus
+.. tags: quotes,motivational,growth,focus,podcast
 .. category:
 .. link:
 .. description:
