@@ -18,6 +18,6 @@ According to `Aaron Young <http://laughlinusa.com/>`_ "It will change your life"
 
 **Will you join me in this challenge?**
 
-I'll have to report back on Sunday, April 5. I will start counting back to 0 days if I miss one day, I'll update this post should it happen...
+I will start counting back to 0 days if I miss one day. As of **Sunday, March 8** I've read the four chapters for **one** consecutive day.
 
 Note: the book is freely (as in cost of 0) available on `Wikisource.org <https://en.wikisource.org/wiki/The_Science_of_Getting_Rich>`_.
