@@ -14,7 +14,7 @@ After listening to `episode 813 <http://www.entrepreneuronfire.com/podcast/aaron
 - `11 - Acting in the Certain Way <https://en.wikisource.org/wiki/The_Science_of_Getting_Rich/Chapter_11>`_
 - `14 - The Impression of Increase <https://en.wikisource.org/wiki/The_Science_of_Getting_Rich/Chapter_14>`_
 
-According to `Aaron Young <http://laughlinusa.com/>`_ "It will change your life" ;)
+The book is rather short and can be read in just a couple of hours. :doc:`Chapter 17 <summary-of-the-science-of-getting-rich>` is a good summary of the book, which according to `Aaron Young <http://laughlinusa.com/>`_ "will change your life" ;)
 
 **Will you join me in this challenge?**
 
