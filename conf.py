@@ -524,6 +524,8 @@ Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
 </a>
+<br />
+Extracts from books and other sources remain under copyright of their respective authors, and are published here under fair-use policy.
 """,
 
 "fr": """
@@ -534,6 +536,8 @@ licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 In
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
 </a>
+<br />
+Les extraits de livres et d'autres sources restent sous copyright de leurs auteurs respectifs, et sont publiés ici sous politique d'utilisation équitable.
 """,
 
 "es": """
@@ -546,6 +550,8 @@ licencia de Reconocimiento-CompartirIgual 4.0 Internacional de Creative Commons<
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
 </a>
+<br />
+Los extractos de libros y otras fuentes permanecen bajo el copyright de sus respectivos autores, y aparecen aquí en virtud de la política de uso justo.
 """,
 
 "nl": """
@@ -558,6 +564,8 @@ Creative Commons Naamsvermelding-GelijkDelen 4.0 Internationaal-licentie</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" src="/assets/img/cc-by-sa-4.0-88x31.png" />
 </a>
+<br />
+Uittreksels uit boeken en andere bronnen blijven onder het copyright van hun respectievelijke auteurs, en worden hier gepubliceerd onder fair-use policy.
 """
 }
 
