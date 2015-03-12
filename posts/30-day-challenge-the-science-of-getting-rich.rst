@@ -20,4 +20,4 @@ The book is rather short and can be read in just a couple of hours. :doc:`Chapte
 
 I will start counting back to 0 days if I miss one day. As of **Thursday, March 12** I've read the four chapters for **five** consecutive days.
 
-Note: the book is freely (as in cost of 0) available on `Wikisource.org <https://en.wikisource.org/wiki/The_Science_of_Getting_Rich>`_.
+Note: the book is freely (as in cost of 0) available on `Wikisource.org <https://en.wikisource.org/wiki/The_Science_of_Getting_Rich>`_. You can also get it in the form of a (once again) freely downloadable audiobook on `Librivox <https://librivox.org/the-science-of-getting-rich-by-wallace-d-wattles/>`_. And to allow you to "read" the book while driving or partaking in actions that do not permit reading, I've concatenated the four relevant chapters into a single `OGG audio file <http://files.klein.st/scienceofgettingrich_4-7-11-14.ogg>`_. So no excuses!
