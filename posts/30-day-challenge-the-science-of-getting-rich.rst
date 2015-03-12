@@ -18,6 +18,6 @@ The book is rather short and can be read in just a couple of hours. :doc:`Chapte
 
 **Will you join me in this challenge?**
 
-I will start counting back to 0 days if I miss one day. As of **Sunday, March 8** I've read the four chapters for **one** consecutive day.
+I will start counting back to 0 days if I miss one day. As of **Thursday, March 12** I've read the four chapters for **five** consecutive days.
 
 Note: the book is freely (as in cost of 0) available on `Wikisource.org <https://en.wikisource.org/wiki/The_Science_of_Getting_Rich>`_.
