@@ -13,6 +13,8 @@ Edit 11/10/2011: Look at this `good link <http://haacked.com/archive/2007/08/21/
 
 .. TEASER_END
 
+Edit 15/04/2015: Update with new Google help page URL.
+
 ================================================================
 
 PLEASE FORWARD TO YOUR TECHNICAL SERVICES
@@ -26,9 +28,8 @@ such as toto+united@gmail.com
 Please forward this message to your web development team, as what
 follows is a technical subject.
 
-A plus is a totally valid symbol in an email address, and is used by
-Gmail to provide email address alias:
-http://mail.google.com/support/bin/answer.py?hl=en&amp;answer=12096
+A plus is a totally valid symbol in an email address, and is `used by
+Gmail to provide email address alias <https://support.google.com/mail/answer/12096?hl=en>`_.
 
 Please update your regular expressions so that it accepts email
 addresses that contain the symbol "+".
@@ -46,4 +47,3 @@ that say "your address is not valid" when it is is really frustrating.
 
 Let me say it once again: **a plus sign in an email address is valid,
 so don't say it's not!**
-
