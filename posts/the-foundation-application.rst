@@ -7,6 +7,8 @@
 .. description:
 .. type: text
 
+EDIT 2015-04-24: On March 25 I have officially joined The Foundation as a student!
+
 I've done it, I've applied to `The Foundation <https://thefoundation.com/>`_! As the thank-you-submit page says:
 
 .. epigraph::
