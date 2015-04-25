@@ -7,4 +7,4 @@
 .. description:
 .. type: text
 
-If you're looking for a good introduction to the mindset of `The Foundation <https://thefoundation.com/>`_, I've found `episode 46 <http://www.smartpassiveincome.com/no-ideas-no-expertise-no-money-business>`_ of the `Smart Passive Income podcast <http://www.smartpassiveincome.com/>`_ to be that. In it, Dane Maxwell from The Foundation discusses the approach to building an online business.
+If you're looking for a good introduction to the mindset of `The Foundation <https://thefoundation.com/>`_, I've found `episode 46 <http://www.smartpassiveincome.com/no-ideas-no-expertise-no-money-business>`_ of the `Smart Passive Income podcast <http://www.smartpassiveincome.com/>`_ to be that. In it, `Dane Maxwell <https://twitter.com/danemaxwell>`_ from The Foundation discusses the approach to building an online business.
