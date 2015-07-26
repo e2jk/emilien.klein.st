@@ -1,7 +1,7 @@
 .. title: My first Idea Extraction call
 .. slug: my-first-idea-extraction-call
 .. date: 2015-04-25 14:25:43 UTC+02:00
-.. tags: the foundation,entrepreneurship,growth
+.. tags: the foundation,entrepreneurship,growth,idea extraction
 .. category:
 .. link:
 .. description:
