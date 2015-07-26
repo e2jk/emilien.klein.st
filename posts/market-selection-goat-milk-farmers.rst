@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-These are my notes on my first market selection: Goat milk farmers. I originally had thought about all milk producers (including cow milk), and that is what the notes below denote, but in practice I have focussed exclusively on goat milk farmers.
+These are my notes on my first market selection: Goat milk farmers. I originally had thought about all milk producers (including cow milk), and that is what the notes below denote, but in practice I have focused exclusively on goat milk farmers.
 
 Selecting a market - Dairy Farmers? In The Netherlands (then Europe, then US)
 
@@ -57,14 +57,14 @@ Examples:
 
 Criteria Number 5 - Reachable by phone, e-mail, Facebook, LinkedIn, Twitter, or message boards.
 ===============================================================================================
-YES - As most independant farmers are small-ish operations (not huge corporation with anonymous headquarters) it should be possible to get in touch with the farmer directly. I haven't tried yet, so this will be confirmed/infirmed soon.
+YES - As most independent farmers are small-ish operations (not huge corporation with anonymous headquarters) it should be possible to get in touch with the farmer directly. I haven't tried yet, so this will be confirmed/infirmed soon.
 
 
 
 
 Criteria Number 6 - Can get person with pain point on the phone
 ===============================================================
-YES - Independant farmers don't have secretaries, gate keepers, etc.
+YES - Independent farmers don't have secretaries, gate keepers, etc.
 
 
 

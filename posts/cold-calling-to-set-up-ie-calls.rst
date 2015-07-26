@@ -11,7 +11,7 @@ After having selected the goat milk farmers as my first market, and getting a li
 
 .. TEASER_END
 
-Although this seemed very frightening at first, I was really suprised and pleased to find out that this method of approach was very succesful: I wrote the following bits after having made only 9 cold calls, but the proportion holds for the about 30 cold calls I've made in total:
+Although this seemed very frightening at first, I was really surprised and pleased to find out that this method of approach was very successful: I wrote the following bits after having made only 9 cold calls, but the proportion holds for the about 30 cold calls I've made in total:
 
   As I don't have email addresses for my market, but "just" phone numbers, I did 9 cold calls yesterday, and got 3 IE calls scheduled for tomorrow and Friday!
 
