@@ -1,7 +1,7 @@
 .. title: Cold call script to set up an IE call
 .. slug: cold-call-script-to-set-up-an-ie-call
 .. date: 2015-06-02 13:11:40 UTC+02:00
-.. tags: the foundation,entrepreneurship,growth,goat milk farmers,idea extraction
+.. tags: the foundation,entrepreneurship,growth,goat milk farmers,idea extraction,cold calling
 .. category:
 .. link:
 .. description:
