@@ -1,7 +1,7 @@
 .. title: Market selection: Inland navigation
 .. slug: market-selection-inland-navigation
 .. date: 2015-07-26 16:17:39 UTC+02:00
-.. tags: the foundation,entrepreneurship,growth,market selection,inland navigation,draft
+.. tags: the foundation,entrepreneurship,growth,market selection,inland navigation
 .. category:
 .. link:
 .. description:
@@ -11,7 +11,9 @@ Let's pass another market through `The Foundation <https://thefoundation.com/>`_
 
 .. TEASER_END
 
-As with my previous market selection, I will first focus on this market in The Netherlands (which I know/see best as being local), then other European countries (Germany, Belgium, France?), then only possibly the US (not sure how big the market is there, and not focusing on the US in this market selection process for now).
+EDIT December 2015: I still had this post in Draft mode, just pushing it out now although it's not a completed post. Maybe you'll benefit from this, maybe not!
+
+As with :doc:`my previous market selection <market-selection-goat-milk-farmers>`, I will first focus on this market in The Netherlands (which I know/see best as being local), then other European countries (Germany, Belgium, France?), then only possibly the US (not sure how big the market is there, and not focusing on the US in this market selection process for now).
 
 Criteria Number 1 - The business currently pays for software of some kind.
 ==========================================================================
@@ -64,7 +66,9 @@ YES - Ships are owned by businesses, that are registered at the Chamber of Comme
 
 Criteria Number 6 - Can get person with pain point on the phone
 ===============================================================
+EDIT December 2015: Yes, no problem getting in touch with business owners.
 
+As a side note, I think the way I did it was actually a problem: I generated a list of businesses, and starting cold calling them. Almost none of them refused to have an IE call with me, but the calls I had were not that productive. A couple of folks literally told me they weren't looking for growth in their business... I decided for my next approach to try the suggested approach of first contacting via email, with the idea that the response to the email would serve as a first filtering out of candidates. We'll see!
 
 
 
