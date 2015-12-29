@@ -21,4 +21,4 @@ Forging ahead with the idea of a Minimal Viable Product, I bought the domain nam
 
 So here it is, it lives at http://EmailMerge.cc, the website is at this moment absolutely not customer-friendly, I still need to optimize it a lot, but I got my first paying customer last week! The amount is not that significant, but what a feeling!
 
-At this moment I'm driving traffic to the shop with paid advertising (Google Adwords), but once I've improved the site I'll start reaching out to create referral relationships which I hope will drive sales of the software. I'll keep you posted!
+At this moment I'm driving traffic to the shop with paid advertising (Google Adwords), but once I've improved the site I'll start reaching out to create referral relationships which I hope will drive sales of the software. I'll keep you posted! [EDIT 2015-12-28: the :doc:`referral program <emailmergecc-affiliate-program>` is live!]
