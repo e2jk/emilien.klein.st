@@ -20,6 +20,8 @@ Today the `Peak Work Performance Summit <http://thepeakworkperformancesummit.com
 * How to grow your network without feeling salesy
 * How to stay energized all day long
 
+.. TEASER_END
+
 There are a number of renowned speakers that will talk on the following subjects:
 
 * Day 1 – Tuesday, January 5
