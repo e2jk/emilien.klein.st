@@ -5,9 +5,7 @@
 .. description: Persoonlijke website Emilien Klein
 .. type: text
 
-Hoi, mijn naam is Emilien Klein, ik woon in 's-Hertogenbosch.
-
-Lees :doc:`wat ik aan het doen ben <now>` (in het engels) of bezoek de pagina's van mijn twee bedrijven:
+Hoi, mijn naam is Emilien Klein, ik woon in 's-Hertogenbosch. Lees meer :doc:`over mij <about-me>` (in het engels), bekijk :doc:`wat ik aan het doen ben <now>` (in het engels) of bezoek de pagina's van mijn twee bedrijven:
 
 * `Zorg Piloot <https://zorgpiloot.nl/>`_: Koppelingen- en conversieprojectleider diensten voor ziekenhuis Elektronisch Patiënten Dossiers
 * `Mental Martial Arts <https://mentalmartialarts.nl/>`_: Productivity coaching gebaseerd op de Getting Things Done®, Total Workday Control® en Pomodoro® technieken
