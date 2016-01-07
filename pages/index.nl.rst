@@ -9,8 +9,8 @@ Hoi, mijn naam is Emilien Klein, ik woon in 's-Hertogenbosch.
 
 Lees :doc:`wat ik aan het doen ben <now>` (in het engels) of bezoek de pagina's van mijn twee bedrijven:
 
-* `Zorg Piloot <http://zorgpiloot.nl/>`_: Koppelingen- en conversieprojectleider diensten voor ziekenhuis Elektronisch Patiënten Dossiers
-* `Mental Martial Arts <http://mentalmartialarts.nl/>`_: Productivity coaching gebaseerd op de Getting Things Done®, Total Workday Control® en Pomodoro® technieken
+* `Zorg Piloot <https://zorgpiloot.nl/>`_: Koppelingen- en conversieprojectleider diensten voor ziekenhuis Elektronisch Patiënten Dossiers
+* `Mental Martial Arts <https://mentalmartialarts.nl/>`_: Productivity coaching gebaseerd op de Getting Things Done®, Total Workday Control® en Pomodoro® technieken
 
 Kijk eens rond!
 

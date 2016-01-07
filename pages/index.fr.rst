@@ -9,8 +9,8 @@ Salut, mon nom est Emilien Klein, j'habite à Bois-le-Duc aux Pays-Bas.
 
 Regardez :doc:`ce que je fais en ce moment <now>` (en anglais), ou visitez les sites web de mes deux sociétés:
 
-* `Zorg Piloot <http://zorgpiloot.nl/>`_: Services de chef de projet pour la mise en œuvre et les conversions de Système d'Information Hospitalier
-* `Mental Martial Arts <http://mentalmartialarts.nl/>`_: Coaching de productivité, basé sur les techniques Getting Things Done®, Total Workday Control® et Pomodoro®
+* `Zorg Piloot <https://zorgpiloot.nl/>`_: Services de chef de projet pour la mise en œuvre et les conversions de Système d'Information Hospitalier
+* `Mental Martial Arts <https://mentalmartialarts.nl/>`_: Coaching de productivité, basé sur les techniques Getting Things Done®, Total Workday Control® et Pomodoro®
 
 Jetez un coup d'œil!
 

@@ -9,8 +9,8 @@ Hola, mi nombre es Emilien Klein, vivo en 's-Hertogenbosch, Países Bajos.
 
 Vea :doc:`lo que estoy haciendo en este momento <now>` (en ingles) o visita los sitios de mis dos empresas:
 
-* `Zorg Piloot <http://zorgpiloot.nl/>`_: Servicios de dirección de proyectos para la implementación y conversión de sistema de información para hospitales
-* `Mental Martial Arts <http://mentalmartialarts.nl/>`_: Coaching de productividad basado el las técnicas Getting Things Done®, Total Workday Control® y Pomodoro®
+* `Zorg Piloot <https://zorgpiloot.nl/>`_: Servicios de dirección de proyectos para la implementación y conversión de sistema de información para hospitales
+* `Mental Martial Arts <https://mentalmartialarts.nl/>`_: Coaching de productividad basado el las técnicas Getting Things Done®, Total Workday Control® y Pomodoro®
 
 ¡Echa un vistazo alrededor!
 
