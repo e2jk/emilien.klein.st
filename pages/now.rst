@@ -51,7 +51,7 @@ As mentioned in the previous section, I am still applying the concepts learned i
 
 I will also use this month to figure out if the mastermind group I'm in can be saved. Regular attendance has dramatically dropped during the summer holidays, intents in the fall have not been met with success. I do believe in the concept more than ever, so maybe it's time to find another group?
 
-With the new year comes the time to think about going forward. The recent post on Side Hustle Nation about `The 134 Best Udemy Courses for Entrepreneurs, Freelancers, and Side Hustlers <http://www.sidehustlenation.com/best-udemy-courses-for-entrepreneurs/>`_ crossed my path at the right time. And with most courses this week for $10, I'm going to pick a few to digest over the coming year. There's definitely going to be one on the [so meta] topic of creating a Udemy course, to get me started on the right foot with my course creation idea about AutoHotkey.
+With the new year comes the time to think about going forward. The recent post on Side Hustle Nation about `The 134 Best Udemy Courses for Entrepreneurs, Freelancers, and Side Hustlers <http://www.sidehustlenation.com/best-udemy-courses-for-entrepreneurs/>`_ crossed my path at the right time. And with most courses this week for $10, I'm going to pick a few to digest over the coming year. There's definitely going to be one on the [so meta] topic of creating a Udemy course, to get me started on the right foot with my course creation idea about AutoHotkey. :doc:`Check out <lots-of-udemy-courses-for-10-this-week>` which courses I've registered to.
 
 ~~~~~~~~
 
