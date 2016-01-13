@@ -22,11 +22,11 @@ Today the `Peak Work Performance Summit <http://thepeakworkperformancesummit.com
 
 .. TEASER_END
 
-There are a number of renowned speakers that will talk on the following subjects:
+There are a number of renowned speakers that will talk on the following subjects (links to my notes on these sessions, when available)
 
 * Day 1 – Tuesday, January 5
 
-  - Daniel Pink - Motivating Top Performance
+  - :doc:`Daniel Pink - Motivating Top Performance <motivating-top-performance-daniel-pink>`
   - Shawn Achor - Staying Positive in a Stressful Workplace
   - Warren Berger - Asking Smarter Questions
   - Greg McKeown - Determining What is Essential and Eliminating Everything Else
