@@ -11,10 +11,10 @@
 {% macro html_translations(post) %}
     {% if post.translated_to|length > 1 %}
         <div class="metadata posttranslations translations">
-            <h3 class="posttranslations-intro">{{ messages("Also available in:") }}</h3>
+            <h6 class="posttranslations-intro">{{ messages("Also available in:") }}</h3>
             {% for langname in translations.keys() %}
                 {% if langname != lang and post.is_translation_available(langname) %}
-                <p><a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a></p>
+                <a href="{{ post.permalink(langname) }}" rel="alternate" hreflang="{{ langname }}">{{ messages("LANGUAGE", langname) }}</a> &nbsp;
                 {% endif %}
             {% endfor %}
         </div>
