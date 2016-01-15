@@ -52,7 +52,7 @@ There are a number of renowned speakers that will talk on the following subjects
 
 * Day 5 – Saturday, January 9
 
-  - David Allen - Getting the Right Things Done
+  - :doc:`David Allen - Getting the Right Things Done <getting-the-right-things-done-david-allen>`
   - David Burkus - Elevate Your Creativity
   - Dorie Clark - How to Network Like a Thought Leader
 
