@@ -97,6 +97,10 @@ h2 {
     outline: 0;
 }
 
+.menu ul .translationlinks li a {
+    padding: 0 0 0 50px;
+}
+
 /* articles */
 article > header span > a {
     color: #333;

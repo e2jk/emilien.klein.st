@@ -46,7 +46,7 @@
                 <ul class="nav navbar-nav">
                     {% block belowtitle %}
                     {% if translations|length > 1 %}
-                        <li>{{ base.html_translations() }}</li>
+                        <span class="translationlinks">{{ base.html_translations() }}</span>
                     {% endif %}
                     {% endblock %}
                     {{ template_hooks['menu_alt']() }}
@@ -76,7 +76,7 @@
                 <hr />
                 {% else %}
                 <h4 class="modal-title">{{ blog_title }} credits</h4>
-                {% endif %} 
+                {% endif %}
               </div>
               <div class="modal-body">
                     {{ content_footer }}
