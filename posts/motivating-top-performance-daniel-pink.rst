@@ -58,3 +58,7 @@ Motivational interviewing - questions we can ask when trying to motivate others:
   * they begin to articulate their own reasons for doing something. When people have their own reasons for doing something, they believe those reasons more deeply and will behave more strongly.
 
 If their answer is a 1, ask what we could do to make it a 2. Usually some kind of barrier, e.g. "I don't have a suit", "I don't know how to write a resume".
+
+--------
+
+Review my other notes from the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>`.
