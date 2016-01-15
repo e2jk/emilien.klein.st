@@ -24,13 +24,14 @@
         <div class="metadata">
             {% if translations|length > 1 and generate_rss %}
                 {% for language in translations %}
-                <p class="feedlink">
-                    <a class=" btn btn-raised btn-success" href="{{ _link(kind + "_rss", tag, language) }}" hreflang="{{ language }}" type="application/rss+xml">{{ messages('RSS feed', language) }} ({{ language }})</a>&nbsp;
-                </p>
+                <span class="feedlink">
+                    <a href="{{ _link(kind + "_rss", tag, language) }}" hreflang="{{ language }}" type="application/rss+xml">{{ messages('RSS feed', language) }} ({{ language }})</a>&nbsp;&nbsp;&nbsp;
+                </span>
                 {% endfor %}
             {% elif generate_rss %}
-                <p class="feedlink"><a class="btn btn-raised btn-success" href="{{ _link(kind + "_rss", tag) }}" type="application/rss+xml">{{ messages('RSS feed') }}</a></p>
+                <span class="feedlink"><a href="{{ _link(kind + "_rss", tag) }}" type="application/rss+xml">{{ messages('RSS feed') }}</a></span>
             {% endif %}
+            <hr />
         </div>
     </header>
     {% if posts %}
