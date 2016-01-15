@@ -112,49 +112,37 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/', 'Home', 'icon-home'),
-        ("/posts/", "Blog", 'icon-book'),
-        ('/contact/', 'Contact', 'icon-envelope'),
-        ('https://www.linkedin.com/in/emilienklein', 'My LinkedIn', 'icon-linkedin'),
-        ('https://github.com/e2jk', 'My Github', 'icon-github'),
-        ('https://plus.google.com/+EmilienKlein', 'My Google Plus', 'icon-google-plus'),
-        ('https://twitter.com/e2jk', 'My Twitter', 'icon-twitter'),
+        ("/posts/", "Blog"),
+        ('/now/', "What I'm doing now"),
+        ('/about-me/', 'About me'),
+        ('/contact/', 'Contact'),
     ),
 
     "fr": (
-        ('/fr/', "Page d'accueil", 'icon-home'),
-        ("/fr/posts/", "Blog", 'icon-book'),
-        ('/fr/contact/', 'Contact', 'icon-envelope'),
-        ('https://www.linkedin.com/in/emilienklein', 'Mon LinkedIn', 'icon-linkedin'),
-        ('https://github.com/e2jk', 'Mon Github', 'icon-github'),
-        ('https://plus.google.com/+EmilienKlein', 'Mon Google Plus', 'icon-google-plus'),
-        ('https://twitter.com/e2jk', 'Mon Twitter', 'icon-twitter'),
+        ("/fr/posts/", "Blog"),
+        ('/fr/now/', "En ce moment"),
+        ('/fr/about-me/', 'À propos'),
+        ('/fr/contact/', 'Contact'),
     ),
 
     "es": (
-        ('/es/', "Página principal", 'icon-home'),
-        ("/es/posts/", "Blog", 'icon-book'),
-        ('/es/contacto/', 'Contacto', 'icon-envelope'),
-        ('https://www.linkedin.com/in/emilienklein', 'Mi LinkedIn', 'icon-linkedin'),
-        ('https://github.com/e2jk', 'Mi Github', 'icon-github'),
-        ('https://plus.google.com/+EmilienKlein', 'Mi Google Plus', 'icon-google-plus'),
-        ('https://twitter.com/e2jk', 'Mi Twitter', 'icon-twitter'),
+        ("/es/posts/", "Blog"),
+        ('/es/now/', "En este momento"),
+        ('/es/about-me/', 'Sobre mi'),
+        ('/es/contacto/', 'Contacto'),
     ),
 
     "nl": (
-        ('/nl/', "Home page", 'icon-home'),
-        ("/nl/posts/", "Blog", 'icon-book'),
-        ('/nl/contact/', 'Contact', 'icon-envelope'),
-        ('https://www.linkedin.com/in/emilienklein', 'Mijn LinkedIn', 'icon-linkedin'),
-        ('https://github.com/e2jk', 'Mijn Github', 'icon-github'),
-        ('https://plus.google.com/+EmilienKlein', 'Mijn Google Plus', 'icon-google-plus'),
-        ('https://twitter.com/e2jk', 'Mijn Twitter', 'icon-twitter'),
+        ("/nl/posts/", "Blog"),
+        ('/nl/now/', "Wat ik nu doe"),
+        ('/nl/about-me/', 'Over mij'),
+        ('/nl/contact/', 'Contact'),
     ),
 }
 
 
 # Name of the theme to use.
-THEME = "zen"
+THEME = "material-theme"
 
 # Below this point, everything is optional
 
