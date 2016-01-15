@@ -209,10 +209,6 @@ span.vcard img.img-circle {
     margin: 20px;
 }
 
-ul > li {
-    list-style: none;
-}
-
 .postlist a.reference > i {
     position: relative;
     top: 2px;
