@@ -1,0 +1,63 @@
+.. title: What I'm doing now - January 2016
+.. slug: now-2016-01
+.. date: 2016-01-07 23:59:59 UTC+01:00
+.. tags: now
+.. link:
+.. description: Read what I'm up to in January 2016
+.. type: text
+
+This is the saved copy of my /now page for January 2016. You can check out :doc:`what I'm doing now <now>`, or keep on ready how things were back then.
+
+.. TEASER_END
+
+**Last updated:** January 7th, 2016
+
+I've created this page to help me allocate the right amount of time and energy to what I need and want to do. I will update this page regularly. This page does not contain general information :doc:`about me <about-me>`.
+
+January 2016
+============
+January will be a month characterized by **Change**, as I come back from a 3-week vacation in Colombia with my family to simultaneously finish my project at the `Elkerliek hospital <http://www.elkerliek.nl/>`_ in Helmond and start my newest project at `Erasmus MC academic hospital <http://www.erasmusmc.nl/>`_ in Rotterdam. I will also use this time to reflect on where I want to lead my side projects.
+
+Family
+------
+My wife and kids are staying two extra weeks in Colombia, coming back to The Netherlands towards the end of the month. I will be focused on getting the gang acclimated again to both the weather and the school/work rhythm. Plenty to do!
+
+Day job
+-------
+At Elkerliek, I will be using the 1,5 day per week to nicely round off the project. My main goal is to finalize the transition from implementation (where I played a large role) to maintenance (where the hospital staff is fully at the bar).
+
+At Erasmus, I will focus on getting the project started as fast and efficiently as possible. That includes:
+
+* Meeting my team and all the [relevant] key players in the hospital
+* Owning the list of interfaces, detecting where information might be missing
+* Getting in touch and laying the basis for collaboration with the most important vendors
+* Putting in place the structure for work (productivity system, weekly reporting strategy, etc.)
+
+I'm happy and proud of the successful project that is about to end, and exited to start the new project!
+
+Side projects
+-------------
+At this moment I have 2 principal side projects going on:
+
+* Continuing my idea extraction efforts as part of `The Foundation <link://tag/the-foundation>`_ training
+* Push harder on the promotion of `EmailMerge.cc <https://EmailMerge.cc/>`_
+
+My head has also been spinning for a couple of months on two other projects:
+
+* Creation of a course on automating computer work using `AutoHotkey <https://autohotkey.com/>`_
+* Writing my first book, the Interface Project Manager's Guide (i.e. my day job)
+
+I will most likely start taking action on the course creation after taking the class you'll read about in the next section. The book writing will have to wait for now.
+
+
+Learning
+--------
+As mentioned in the previous section, I am still applying the concepts learned in The Foundation. I have yet to break my current ceiling, which is to get a valid idea extracted.
+
+I will also use this month to figure out if the mastermind group I'm in can be saved. Regular attendance has dramatically dropped during the summer holidays, intents in the fall have not been met with success. I do believe in the concept more than ever, so maybe it's time to find another group?
+
+With the new year comes the time to think about going forward. The recent post on Side Hustle Nation about `The 134 Best Udemy Courses for Entrepreneurs, Freelancers, and Side Hustlers <http://www.sidehustlenation.com/best-udemy-courses-for-entrepreneurs/>`_ crossed my path at the right time. And with most courses this week for $10, I'm going to pick a few to digest over the coming year. There's definitely going to be one on the [so meta] topic of creating a Udemy course, to get me started on the right foot with my course creation idea about AutoHotkey. :doc:`Check out <lots-of-udemy-courses-for-10-this-week>` which courses I've registered to.
+
+~~~~~~~~
+
+Inspired by the `/now page movement <http://nownownow.com/>`_.

@@ -2,33 +2,26 @@
 .. slug: now
 .. tags:
 .. link:
-.. description: Read what I'm up to at this moment.
+.. description: Read what I'm up to in February 2016
 .. type: text
 
-**Last updated:** January 7th, 2016
+**Last updated:** February 5th, 2016
 
 I've created this page to help me allocate the right amount of time and energy to what I need and want to do. I will update this page regularly. This page does not contain general information :doc:`about me <about-me>`.
 
-January 2016
-============
-January will be a month characterized by **Change**, as I come back from a 3-week vacation in Colombia with my family to simultaneously finish my project at the `Elkerliek hospital <http://www.elkerliek.nl/>`_ in Helmond and start my newest project at `Erasmus MC academic hospital <http://www.erasmusmc.nl/>`_ in Rotterdam. I will also use this time to reflect on where I want to lead my side projects.
+February 2016
+=============
+February will be a month characterized by **Closing**, as I finish up my project at the `Elkerliek hospital <http://www.elkerliek.nl/>`_ in Helmond.
 
 Family
 ------
-My wife and kids are staying two extra weeks in Colombia, coming back to The Netherlands towards the end of the month. I will be focused on getting the gang acclimated again to both the weather and the school/work rhythm. Plenty to do!
+Just when my wife and kids are settled back into school mode, Carnaval and one week of vacation is starting. Plenty to organize and do to keep these energy sources occupied!
 
 Day job
 -------
-At Elkerliek, I will be using the 1,5 day per week to nicely round off the project. My main goal is to finalize the transition from implementation (where I played a large role) to maintenance (where the hospital staff is fully at the bar).
+With only 3 work days left at Elkerliek, I need to focus on writing up the transfer information and closing report. With a presentation and a couple of 1-on-1 sessions, I'll also be spending some time at Elkerliek doing `Mental Martial Arts <https://mentalmartialarts.nl>`_ coaching.
 
-At Erasmus, I will focus on getting the project started as fast and efficiently as possible. That includes:
-
-* Meeting my team and all the [relevant] key players in the hospital
-* Owning the list of interfaces, detecting where information might be missing
-* Getting in touch and laying the basis for collaboration with the most important vendors
-* Putting in place the structure for work (productivity system, weekly reporting strategy, etc.)
-
-I'm happy and proud of the successful project that is about to end, and exited to start the new project!
+At `Erasmus <http://www.erasmusmc.nl/>`_ , having laid the groundwork for the project, the next phase is meeting the ChipSoft consultants who will be assigned to our project. We've got plenty to discuss and put in motion - let's go!
 
 Side projects
 -------------
@@ -37,22 +30,21 @@ At this moment I have 2 principal side projects going on:
 * Continuing my idea extraction efforts as part of `The Foundation <link://tag/the-foundation>`_ training
 * Push harder on the promotion of `EmailMerge.cc <https://EmailMerge.cc/>`_
 
-My head has also been spinning for a couple of months on two other projects:
+I have not done much on the Foundation side of things since October, and will most likely not make any progress either in February as I'm still working full-time and commuting to Rotterdam each day (almost 4 hours back and forth - luckily going with the train, so getting back two hours of work time). I might look into using some of that commute time for the Foundation, although at this time I'm using it to make progress on my two hospital projects. So this is still up in the air for now.
 
-* Creation of a course on automating computer work using `AutoHotkey <https://autohotkey.com/>`_
-* Writing my first book, the Interface Project Manager's Guide (i.e. my day job)
+I've had another couple of customers on EmailMerge.cc, but my initial (December/January) outreach efforts and `Affiliate Program <https://emailmerge.cc/pages/affiliate-program>`_ have not yet seem much traction. So there's work to be done there!
 
-I will most likely start taking action on the course creation after taking the class you'll read about in the next section. The book writing will have to wait for now.
+I have not yet taken action on my other project ideas (course and book), and am postponing them a bit to make sure I focus on the current projects.
 
 
 Learning
 --------
-As mentioned in the previous section, I am still applying the concepts learned in The Foundation. I have yet to break my current ceiling, which is to get a valid idea extracted.
+I've resumed my learning of the Italian language, through the Duolingo platform. I originally started this for fun, to see how Duolingo works, but it's actually so fun and takes just a few minutes here and there (perfect on these transfer times during my morning commute mentioned previously) that I'm keeping on with it. I think the last "milestone" I was presented was that I got to 13%.
 
-I will also use this month to figure out if the mastermind group I'm in can be saved. Regular attendance has dramatically dropped during the summer holidays, intents in the fall have not been met with success. I do believe in the concept more than ever, so maybe it's time to find another group?
+Our mastermind group has been closed. At this moment I'm taking a break, but definitely want to join another mastermind group in a couple of months.
 
-With the new year comes the time to think about going forward. The recent post on Side Hustle Nation about `The 134 Best Udemy Courses for Entrepreneurs, Freelancers, and Side Hustlers <http://www.sidehustlenation.com/best-udemy-courses-for-entrepreneurs/>`_ crossed my path at the right time. And with most courses this week for $10, I'm going to pick a few to digest over the coming year. There's definitely going to be one on the [so meta] topic of creating a Udemy course, to get me started on the right foot with my course creation idea about AutoHotkey. :doc:`Check out <lots-of-udemy-courses-for-10-this-week>` which courses I've registered to.
+I've started the `Project Management Professional: Prep for PMP <https://www.udemy.com/pmp-exam-prep-everything-you-must-know-to-pass-the-pmp-exam/?siteID=Yp_0HZcG43c-_DuEh5cjbb4.jrRCEd9JSw&LSNPUBID=Yp/0HZcG43c>`_ and will continue working on it during my commute. The other courses are queued for later.
 
 ~~~~~~~~
 
-Inspired by the `/now page movement <http://nownownow.com/>`_.
+Inspired by the `/now page movement <http://nownownow.com/>`_. You can go back in time and `read my previous /now entries <link://tag/now>`_.
