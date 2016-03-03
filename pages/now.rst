@@ -11,7 +11,7 @@ I've created this page to help me allocate the right amount of time and energy t
 
 March 2016
 =============
-March will be a month characterized by **Scaling Up**, as I continue scaling up my efforts on the various fronts.
+March will be a month characterized by **Scaling Up**, as I continue increasing my efforts on the various fronts.
 
 Family
 ------
