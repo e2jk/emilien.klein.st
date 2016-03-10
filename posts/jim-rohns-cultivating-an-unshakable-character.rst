@@ -11,6 +11,8 @@ My re-transcription of Jim Rohn's conclusion to Cultivating an Unshakable Charac
 
 In a sense , when committing to one of the traits below you're making an investment. If you start living in a way that runs counter to those traits you loose an investment. No one likes to lose an investment, once that starts to happen it's not long before you're broke.
 
+.. TEASER_END: Read on for the essential traits of an Unshakable Character
+
 These are the essential traits of an Unshakable Character:
 
 **Courage** - It's not the absence of fear, but the presence of fear for the right reason at the right time and of the right thing. We should not fear failure per se, but fear failure to do our best, fear failure to live up to the ideals we set up for ourselves. Embrace your fear, take it inside yourself, use it as a foundation for true courage.
