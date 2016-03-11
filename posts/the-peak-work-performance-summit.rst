@@ -75,11 +75,13 @@ There are a number of renowned speakers that will talk on the following subjects
   - Peter Bregman - Improving Your Performance in 18 Minutes a Day
 
 * Day 9 – Wednesday, January 13
+
   - Carrie Wilkerson - How to Start a Business While Working for Someone Else
   - John Lee Dumas - How to Grow Your Network Through Podcasting
   - Chandler Bolt - How Self-Publishing a Book Can Transform Your Career
 
 * Day 10 – Thursday, January 14
+
   - Hal Elrod - How to Wake Up with More Energy on Less Sleep
   - Rory Vaden - How to Multiply Your Time
   - Michael Hyatt - How to Have Your Best Year Ever
