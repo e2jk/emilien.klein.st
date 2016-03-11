@@ -60,7 +60,7 @@ There are a number of renowned speakers that will talk on the following subjects
 
   - Susan Cain - An Introvert’s Guide to Peak Performance
   - Tracy Brower - How to Create Abundance in Your Work and Life
-  - Laura Vanderkam - What the World’s Most Successful People Do Differently
+  - :doc:`Laura Vanderkam - What the World’s Most Successful People Do  <what-the-worlds-most-successful-people-do-differently-laura-vanderkam>`
 
 * Day 7 – Monday, January 11
 
