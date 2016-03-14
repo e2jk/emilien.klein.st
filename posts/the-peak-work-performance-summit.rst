@@ -35,7 +35,7 @@ There are a number of renowned speakers that will talk on the following subjects
 
   - Gretchen Rubin - Changing Your Habits
   - Todd Henry - How to Be Brilliant at a Moment’s Notice
-  - Richard Wiseman - How to Change Your Life in 59 Seconds
+  - :doc:`Richard Wiseman - How to Change Your Life in 59 Seconds <how-to-change-your-life-in-59-seconds-richard-wiseman>`
 
 * Day 3 – Thursday, January 7
 
