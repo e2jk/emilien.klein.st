@@ -76,7 +76,7 @@ There are a number of renowned speakers that will talk on the following subjects
 
 * Day 9 – Wednesday, January 13
 
-  - Carrie Wilkerson - How to Start a Business While Working for Someone Else
+  - :doc:`Carrie Wilkerson - How to Start a Business While Working for Someone Else <how-to-start-a-business-while-working-for-someone-else-carrie-wilkerson>`
   - John Lee Dumas - How to Grow Your Network Through Podcasting
   - Chandler Bolt - How Self-Publishing a Book Can Transform Your Career
 
