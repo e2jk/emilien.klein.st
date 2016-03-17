@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-My notes of the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>` session with Laura Vanderkam, author of the books `What the most successful people do before breakfast <TODO>`_, `168 hours, you have more time than you think <TODO>`_ and `I know how she does it <TODO>`_:
+My notes of the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>` session with Laura Vanderkam, author of the books `What the most successful people do before breakfast <http://www.amazon.com/gp/product/1591846692>`_, `168 hours, you have more time than you think <http://www.amazon.com/gp/product/159184410X>`_ and `I know how she does it: How Successful Women Make the Most of Their Time <http://www.amazon.com/gp/product/159184732X>`_:
 
 .. TEASER_END
 

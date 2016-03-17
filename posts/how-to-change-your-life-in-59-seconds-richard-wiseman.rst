@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-My notes of the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>` session with Richard Wiseman, author of the book `59 seconds, Change your life in under a minute <TODO>`_, `The Luck Factor, Change your luck - and change your life <TODO>`_ and `Quirkology, The curious science of everyday lives <TODO>`_:
+My notes of the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>` session with Richard Wiseman, author of the book `59 seconds, Change your life in under a minute <TODO>`_, `The Luck Factor, Change your luck - and change your life <http://www.amazon.com/gp/product/0307474860>`_ and `Quirkology, The curious science of everyday lives <http://www.amazon.com/gp/product/B004QGYF82>`_:
 
 .. TEASER_END
 

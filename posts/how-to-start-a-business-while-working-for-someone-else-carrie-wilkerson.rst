@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-My notes of the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>` session with Carrie Wilkerson, author of the book `The Barefoot Executive - The ultimate guide for being your own boss and achieving financial freedom <TODO>`_:
+My notes of the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>` session with Carrie Wilkerson, author of the book `The Barefoot Executive - The ultimate guide for being your own boss and achieving financial freedom <http://www.amazon.com/dp/B004Y1NWK6>`_:
 
 .. TEASER_END
 
