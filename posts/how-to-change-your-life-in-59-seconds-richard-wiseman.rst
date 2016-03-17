@@ -42,3 +42,7 @@ Our belief about how lucky or unlucky we are in our lives are somewhat self-prof
 Show gratitude (think about the positive stuff that happened during the day), do something new or unusual. This transforms you from being a creature of habit into someone that becomes far more flexible and open to opportunities.
 
 Whatever happens, realize it could have been worse. People who see themselves as unlucky will always think that things could always have been better.
+
+--------
+
+Review my other notes from the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>`.

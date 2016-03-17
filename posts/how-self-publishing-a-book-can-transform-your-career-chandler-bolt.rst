@@ -68,3 +68,7 @@ Tips on how to make progress
 * Tracking your time
 
   You can't improve how you spend your time if you don't first track it. Install these two software: `Rescue Time <https://www.rescuetime.com/>`_ which runs on the background on your computer and gives you a weekly report, and `Toggl <https://www.toggl.com/>`_ which makes you manually click to change activities. Helps you realize the importance and impact of switching from one task to another.
+
+--------
+
+Review my other notes from the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>`.

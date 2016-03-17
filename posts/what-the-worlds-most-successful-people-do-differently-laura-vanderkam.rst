@@ -47,3 +47,7 @@ Closing tips on how to be happier
 - Use the family breakfast to strategize the day
 
   Kids usually prefer pancakes than broccoli, so that can also help communicate better with smaller kids.
+
+--------
+
+Review my other notes from the :doc:`Peak Work Performance Summit <the-peak-work-performance-summit>`.
