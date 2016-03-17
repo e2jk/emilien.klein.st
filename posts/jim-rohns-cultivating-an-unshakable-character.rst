@@ -1,7 +1,7 @@
 .. title: Jim Rohn's Cultivating an Unshakable Character
 .. slug: jim-rohn-cultivating-an-unshakable-character
 .. date: 2016-03-06 17:09:30 UTC+01:00
-.. tags:growth,self development,jim rohn
+.. tags: growth,self development,jim rohn,audiobook,character
 .. category:
 .. link:
 .. description:
