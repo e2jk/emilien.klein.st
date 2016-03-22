@@ -119,23 +119,23 @@ NAVIGATION_LINKS = {
     ),
 
     "fr": (
-        ("/fr/posts/", "Blog"),
-        ('/fr/now/', "En ce moment"),
-        ('/fr/about-me/', 'À propos'),
+        ("/posts/", "Blog (en anglais)"),
+        ('/now/', "En ce moment (en anglais)"),
+        ('/about-me/', 'À propos (en anglais)'),
         ('/fr/contact/', 'Contact'),
     ),
 
     "es": (
-        ("/es/posts/", "Blog"),
-        ('/es/now/', "En este momento"),
-        ('/es/about-me/', 'Sobre mi'),
+        ("/posts/", "Blog (en ingles)"),
+        ('/now/', "En este momento (en ingles)"),
+        ('/about-me/', 'Sobre mi (en ingles)'),
         ('/es/contacto/', 'Contacto'),
     ),
 
     "nl": (
-        ("/nl/posts/", "Blog"),
-        ('/nl/now/', "Wat ik nu doe"),
-        ('/nl/about-me/', 'Over mij'),
+        ("/posts/", "Blog (in het engels)"),
+        ('/now/', "Wat ik nu doe (in het engels)"),
+        ('/about-me/', 'Over mij (in het engels)'),
         ('/nl/contact/', 'Contact'),
     ),
 }
@@ -265,7 +265,7 @@ COMPILERS = {
 # If this is set to False, then posts that are not translated to a language
 # LANG will not be visible at all in the pages in that language.
 # Formerly known as HIDE_UNTRANSLATED_POSTS (inverse)
-# SHOW_UNTRANSLATED_POSTS = True
+SHOW_UNTRANSLATED_POSTS = False
 
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
