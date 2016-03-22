@@ -5,10 +5,11 @@
 .. description: Sitio personal de Emilien Klein
 .. type: text
 
-Hola, mi nombre es Emilien Klein, vivo en 's-Hertogenbosch, Países Bajos. Lea mas `sobre mi </about-me>`_ (en ingles), vea `lo que estoy haciendo en este momento </now>`_ (en ingles) o visita los sitios de mis dos empresas:
+Hola, mi nombre es Emilien Klein, vivo en 's-Hertogenbosch, Países Bajos. Lea mas `sobre mi </about-me>`_ (en ingles), vea `lo que estoy haciendo en este momento </now>`_ (en ingles) o visita los sitios de mis empresas y productos:
 
 * `Zorg Piloot <https://zorgpiloot.nl/>`_: Servicios de dirección de proyectos para la implementación y conversión de sistema de información para hospitales
 * `Mental Martial Arts <https://mentalmartialarts.nl/>`_: Coaching de productividad basado el las técnicas Getting Things Done®, Total Workday Control® y Pomodoro®
+* `EmailMerge.cc <https://EmailMerge.cc>`_: Manda emails desde Excel con CC y BCC
 
 ¡Echa un vistazo alrededor!
 

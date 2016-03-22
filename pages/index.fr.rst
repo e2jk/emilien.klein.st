@@ -5,10 +5,11 @@
 .. description: Site personnel d'Emilien Klein
 .. type: text
 
-Salut, mon nom est Emilien Klein, j'habite à Bois-le-Duc aux Pays-Bas. Lisez-en plus `sur moi </about-me>`_ (en anglais), regardez `ce que je fais en ce moment </now>`_ (en anglais), ou visitez les sites web de mes deux sociétés:
+Salut, mon nom est Emilien Klein, j'habite à Bois-le-Duc aux Pays-Bas. Lisez-en plus `sur moi </about-me>`_ (en anglais), regardez `ce que je fais en ce moment </now>`_ (en anglais), ou visitez les sites web de mes sociétés et produits:
 
 * `Zorg Piloot <https://zorgpiloot.nl/>`_: Services de chef de projet pour la mise en œuvre et les conversions de Système d'Information Hospitalier
 * `Mental Martial Arts <https://mentalmartialarts.nl/>`_: Coaching de productivité, basé sur les techniques Getting Things Done®, Total Workday Control® et Pomodoro®
+* `EmailMerge.cc <https://EmailMerge.cc>`_: Envoyer des emails depuis Excel avec CC et BCC
 
 Jetez un coup d'œil!
 

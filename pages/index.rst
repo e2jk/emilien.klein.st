@@ -5,10 +5,11 @@
 .. description: Emilien Klein's personal site
 .. type: text
 
-Hi, my name is Emilien Klein, I live in 's-Hertogenbosch, The Netherlands. Read more :doc:`about me <about-me>`, check out :doc:`what I'm doing now <now>`, or visit my two companies' websites:
+Hi, my name is Emilien Klein, I live in 's-Hertogenbosch, The Netherlands. Read more :doc:`about me <about-me>`, check out :doc:`what I'm doing now <now>`, or visit the websites of my companies and products:
 
 * `Zorg Piloot <https://zorgpiloot.nl/>`_: Hospital Information System project leader services for implementation and conversions
 * `Mental Martial Arts <https://mentalmartialarts.nl/>`_: Productivity coaching based on the Getting Things Done®, Total Workday Control® and Pomodoro® techniques
+* `EmailMerge.cc <https://EmailMerge.cc>`_: Send emails from Excel with CC and BCC
 
 Have a look around!
 
