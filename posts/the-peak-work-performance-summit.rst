@@ -66,7 +66,7 @@ There are a number of renowned speakers that will talk on the following subjects
 
   - Brigid Schulte - Balancing Work, Life and Play
   - Scott Barry Kaufman - What Creative Geniuses Do Differently
-  - Michelle Gielan - Inspiring Positivity in Others
+  - :doc:`Michelle Gielan - Inspiring Positivity in Others <inspiring-positivity-in-others-michelle-gielan>`
 
 * Day 8 – Tuesday, January 12
 
