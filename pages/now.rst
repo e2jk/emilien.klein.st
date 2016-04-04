@@ -1,53 +1,48 @@
-.. title: What I'm doing now
+.. title: What I'm doing now - April 2016
 .. slug: now
 .. tags:
 .. link:
-.. description: Read what I'm up to in March 2016
+.. description: Read what I'm up to in April 2016
 .. type: text
 
-**Last updated:** March 3rd, 2016
+**Last updated:** April 4th, 2016
 
 I've created this page to help me allocate the right amount of time and energy to what I need and want to do. I will update this page regularly. This page does not contain general information :doc:`about me <about-me>`.
 
-March 2016
-=============
-March will be a month characterized by **Scaling Up**, as I continue increasing my efforts on the various fronts.
+April 2016
+==========
+April will be a month characterized by **Focus**, as I crank out my first book.
 
 Family
 ------
-I'm looking forward to spending a long Easter weekend in the north of France together with our Swiss US/Mexican friends, as we've now been doing for a couple of years. Other than that, the month should be rather quiet with the usual routines during the week and weekends. There's nothing wrong with being a bit less busy from time to time.
+Coming back refreshed from a long Easter weekend in the north of France, and with the good weather coming up (18 degrees C last Sunday) we're going to spend some more time outside (finally!). Soccer, skateboard and scooter in sight!
 
 Day job
 -------
-At `Erasmus MC <http://www.erasmusmc.nl/>`_ we're working full steam through specifications, and are avidly looking forward to a test system being available to start producing messages. Discussions with 3rd party vendors have started.
-
-I'm now finished at my previous project at the `Elkerliek hospital <http://www.elkerliek.nl/>`_ in Helmond. Being my first project since I started working for my own, I am really pleased about how this went.
-
-This month I'm also jumping in for a colleague, replacing him as Interface Project Leader in the `Franciscus en Vlietland Groep <http://franciscus.nl/>`_ for a couple of days, one of which being a Review Dag (a high-stakes day where multiple vendors are physically present at the hospital, which makes for intellectually challenging days - which is great!). I enjoy being able to help other hospitals make these difficult and complex days a success, and appreciate the trust that is being placed in me.
+At `Erasmus MC <http://www.erasmusmc.nl/>`_ we should very soon get our test system ready to start producing messages, which will mark the beginning of active technical testing sessions. Lots do to: excited!
 
 Side projects
 -------------
-At this moment I have 2 principal side projects going on:
+At this moment I have 3 principal side projects going on:
 
+* Writing my first book
 * Continuing my idea extraction efforts as part of `The Foundation <link://tag/the-foundation>`_ training
 * Push harder on the promotion of `EmailMerge.cc <https://EmailMerge.cc/>`_
 
-I have not done much on the Foundation side of things since October, and will use the second half of March to reflect on how to get this part rolling again.
+I've done it: I've started working on my first book over Easter weekend! I'm at the point now that I have the basic structure down with sections (8) and chapters (28). I've written about 3 chapters up to this point.
 
-On the EmailMerge.cc front, things are starting to get good traction. In March the incomes represented more than 3 times the expenses, taking in fact that I started experimenting with sending postcards (yes, the snail mail type) to paying customers and some of the demo users. That effort hasn't seen specific returns yet, I'll continue that test in March and then determine if it's worth pursuing (it cost me €2.40 per postcard, including stamp).
+As mentioned on the previous months' Now page, I have not done much on the Foundation side of things since October. I've had 2 one-on-one mastermind calls and we're planning a session with the 3 of us to see if there would be a good fit. I do have to get back on the saddle if I want to have anything meaningful to share in June at the European Foundation event in Spain, which I'm planning to attend.
 
-I have not yet taken action on my other project ideas (course and book), and am postponing them a bit to make sure I focus on the current projects.
+On the EmailMerge.cc front the previous month has been a slow one, with no paying customer. A sharp contrast with February. That said, I'm to blame as I should have been giving it more attention (a redesign of the site to make it look more professional shouldn't harm the sales...) I'm not sure I'll get to it this month though.
+
+The changes to the Udemy course prices last months have me slightly confused on my course creation objective. But luckily I have enough on my plate now that I can safely propose that to later!
 
 
 Learning
 --------
-My study of the Italian language using the Duolingo platform is progressing smothly. I'm now on a 36-day streak at the Serious level (3 "courses" per day), and have now reached the 25% milestone. I enjoy this brainteasing during my morning commute.
+My study of the Italian language using the Duolingo platform is progressing smoothly. Due to a network issue during the long weekend which resulted in a day not being logged followed by a day I wasn't able to work on the course, my 56 day streak got reset. No biggie, as I've nonetheless reached the 37% milestone. Going on!
 
-Our mastermind group has been stopped a month ago. At this moment I'm taking a break, but definitely want to join another mastermind group in a couple of months.
-
-I've made only moderate progress on the `Prince2 Foundation Training <https://www.udemy.com/prince2-foundation-training/?siteID=Yp_0HZcG43c-GKoPJUvBvbkfon7vAr5TcA&LSNPUBID=Yp/0HZcG43c>`_ due to the fact that I started entering the facts I already learned into `Anki <http://ankisrs.net/>`_'s Spaced Repetition Software. Instead of racing through the course, I'm spending some more time in the repetition to make sure I remember most of what I learn. I will continue working on it mainly during my commute.
-
-Last month I also completed the `How I Get Paid $1,000 Every Friday Trading Options <https://www.udemy.com/1000dollarpaydays/?siteID=Yp_0HZcG43c-JI7HhIaY9Q3fzOi9In7Lmg&LSNPUBID=Yp/0HZcG43c>`_ course, and I'm taking steps to put this strategy in place.
+I've made no progress on the `Prince2 Foundation Training <https://www.udemy.com/prince2-foundation-training/?siteID=Yp_0HZcG43c-GKoPJUvBvbkfon7vAr5TcA&LSNPUBID=Yp/0HZcG43c>`_ but am still working daily on the questions I entered into `Anki <http://ankisrs.net/>`_. My priority is on keeping momentum on the book, so I'm pausing the progress on this course for now.
 
 ~~~~~~~~
 
