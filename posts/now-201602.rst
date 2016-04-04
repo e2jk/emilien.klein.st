@@ -1,4 +1,4 @@
-.. title: What I'm doing now - Februari 2016
+.. title: What I'm doing now - February 2016
 .. slug: now-2016-02
 .. date: 2016-02-05 23:59:59 UTC+01:00
 .. tags: now
@@ -6,7 +6,7 @@
 .. description: Read what I'm up to in February 2016
 .. type: text
 
-This is the saved copy of my /now page for Februari 2016. You can check out :doc:`what I'm doing now <now>`, or keep on ready how things were back then.
+This is the saved copy of my /now page for February 2016. You can check out :doc:`what I'm doing now <now>`, or keep on reading how things were back then.
 
 .. TEASER_END
 
