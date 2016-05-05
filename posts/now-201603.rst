@@ -1,7 +1,7 @@
 .. title: What I'm doing now - March 2016
-.. slug: -2016-03
+.. slug: now-2016-03
 .. date: 2016-03-03 23:59:59 UTC+01:00
-.. tags:
+.. tags: now
 .. link:
 .. description: Read what I'm up to in March 2016
 .. type: text
