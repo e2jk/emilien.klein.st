@@ -1,7 +1,7 @@
 .. title: Lots of Udemy courses for $10 this week
 .. slug: lots-of-udemy-courses-for-10-this-week
 .. date: 2016-01-07 08:35:00 UTC+01:00
-.. tags: entrepreneurship,growth,learning,udemy
+.. tags: entrepreneurship,growth,learning,udemy,course
 .. category:
 .. link:
 .. description:
