@@ -828,7 +828,16 @@ COPY_SOURCES = False
 # (translatable)
 EXTRA_HEAD_DATA = """
 <link href="https://www.google.com/accounts/o8/ud" rel="openid2.provider" />
-<link href="https://www.google.com/profiles/EmilienKlein" rel="openid2.local_id" />"""
+<link href="https://www.google.com/profiles/EmilienKlein" rel="openid2.local_id" />
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
